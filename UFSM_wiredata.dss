@@ -1,0 +1,69 @@
+// DEFINIÇÃO DO MODELO ELETROMAGNÉTICO
+Set DefaultBaseFrequency=60
+Set EarthModel=Carson
+
+// WIREDATA 90C - CABOS AÉREOS
+New Wiredata.1CAA4awg           Rac=0.905   Runits=km  GMR=0.002030  GMRunits=m  Radius=0.002570  Radunits=m  NormAmps=85
+New Wiredata.1CAA2awg           Rac=0.570   Runits=km  GMR=0.002570  GMRunits=m  Radius=0.003250  Radunits=m  NormAmps=115
+New Wiredata.1CAA10awg          Rac=0.345   Runits=km  GMR=0.003280  GMRunits=m  Radius=0.004110  Radunits=m  NormAmps=150
+New Wiredata.1prot50mm2         Rac=0.6410  Runits=km  GMR=0.003150  GMRunits=m  Radius=0.003950  Radunits=m  NormAmps=180
+New Wiredata.1prot95mm2         Rac=0.3200  Runits=km  GMR=0.004400  GMRunits=m  Radius=0.005520  Radunits=m  NormAmps=250
+New Wiredata.1prot150mm2        Rac=0.2060  Runits=km  GMR=0.005850  GMRunits=m  Radius=0.007100  Radunits=m  NormAmps=320
+
+// TSDATA - CABOS SUBTERRÂNEOS
+New TSData.CCISO_25  Runits=km Radunits=mm GMRunits=mm EpsR=2.3  InsLayer=3.4  diam=5.65   DiaIns=12.45  DiaShield=13.05  DiaCable=17.05  Rac=0.867  normamps=135  TapeLayer=0.3  TapeLap=20
+New TSData.CCISO_50  Runits=km Radunits=mm GMRunits=mm EpsR=2.3  InsLayer=3.4  diam=7.98   DiaIns=14.78  DiaShield=15.38  DiaCable=19.38  Rac=0.429  normamps=180  TapeLayer=0.3  TapeLap=20
+New TSData.CCISO_95  Runits=km Radunits=mm GMRunits=mm EpsR=2.3  InsLayer=3.4  diam=11.00  DiaIns=17.80  DiaShield=18.40  DiaCable=22.40  Rac=0.227  normamps=230  TapeLayer=0.3  TapeLap=20
+New TSData.CCISO_185 Runits=km Radunits=mm GMRunits=mm EpsR=2.3  InsLayer=3.4  diam=15.36  DiaIns=22.16  DiaShield=22.76  DiaCable=26.76  Rac=0.0991 normamps=315  TapeLayer=0.3  TapeLap=20
+New TSData.CCISO_240 Runits=km Radunits=mm GMRunits=mm EpsR=2.3  InsLayer=3.4  diam=17.48  DiaIns=24.28  DiaShield=24.88  DiaCable=28.88  Rac=0.0754 normamps=365  TapeLayer=0.3  TapeLap=20
+New TSData.CCISO_400 Runits=km Radunits=mm GMRunits=mm EpsR=2.3  InsLayer=3.4  diam=22.58  DiaIns=29.38  DiaShield=29.98  DiaCable=33.98  Rac=0.0471 normamps=470  TapeLayer=0.3  TapeLap=20
+
+// LINEGEOMETRY
+New Linegeometry.3CAA4awg         nconds=3   nphases=3
+~ cond=1  Wire=1CAA4awg           x=-0.9     h=9.3      units=m
+~ cond=2  Wire=1CAA4awg           x=-0.3     h=9.3      units=m
+~ cond=3  Wire=1CAA4awg           x=0.9      h=9.3      units=m
+New Linegeometry.3CAA2awg         nconds=3   nphases=3
+~ cond=1  Wire=1CAA2awg           x=-0.9     h=9.3      units=m
+~ cond=2  Wire=1CAA2awg           x=-0.3     h=9.3      units=m
+~ cond=3  Wire=1CAA2awg           x=0.9      h=9.3      units=m
+New Linegeometry.3CAA10awg        nconds=3   nphases=3
+~ cond=1  Wire=1CAA10awg          x=-0.9     h=9.3      units=m
+~ cond=2  Wire=1CAA10awg          x=-0.3     h=9.3      units=m
+~ cond=3  Wire=1CAA10awg          x=0.9      h=9.3      units=m
+New Linegeometry.3prot50mm2       nconds=3   nphases=3
+~ cond=1  Wire=1prot50mm2         x=-0.0875  h=8.65     units=m
+~ cond=2  Wire=1prot50mm2         x=0        h=8.8      units=m
+~ cond=3  Wire=1prot50mm2         x=0.0875   h=8.65     units=m
+New Linegeometry.3prot95mm2       nconds=3   nphases=3
+~ cond=1  Wire=1prot95mm2         x=-0.0875  h=8.65     units=m
+~ cond=2  Wire=1prot95mm2         x=0        h=8.8      units=m
+~ cond=3  Wire=1prot95mm2         x=0.0875   h=8.65     units=m
+New Linegeometry.3prot150mm2      nconds=3   nphases=3
+~ cond=1  Wire=1prot150mm2        x=-0.0875  h=8.65     units=m
+~ cond=2  Wire=1prot150mm2        x=0        h=8.8      units=m
+~ cond=3  Wire=1prot150mm2        x=0.0875   h=8.65     units=m
+New LineGeometry.UG_trefoil_25    nconds=3   nphases=3
+~ cond=1  TScable=CCISO_25        x=-0.050   h=-1.000  units=m
+~ cond=2  TScable=CCISO_25        x= 0.050   h=-1.000  units=m
+~ cond=3  TScable=CCISO_25        x= 0.000   h=-0.9134 units=m
+New LineGeometry.UG_trefoil_50    nconds=3   nphases=3
+~ cond=1  TScable=CCISO_50        x=-0.050   h=-1.000  units=m
+~ cond=2  TScable=CCISO_50        x= 0.050   h=-1.000  units=m
+~ cond=3  TScable=CCISO_50        x= 0.000   h=-0.9134 units=m
+New LineGeometry.UG_trefoil_95    nconds=3   nphases=3
+~ cond=1  TScable=CCISO_95        x=-0.050   h=-1.000  units=m
+~ cond=2  TScable=CCISO_95        x= 0.050   h=-1.000  units=m
+~ cond=3  TScable=CCISO_95        x= 0.000   h=-0.9134 units=m
+New LineGeometry.UG_trefoil_185   nconds=3   nphases=3
+~ cond=1  TScable=CCISO_185       x=-0.050   h=-1.000  units=m
+~ cond=2  TScable=CCISO_185       x= 0.050   h=-1.000  units=m
+~ cond=3  TScable=CCISO_185       x= 0.000   h=-0.9134 units=m
+New LineGeometry.UG_trefoil_240   nconds=3   nphases=3
+~ cond=1  TScable=CCISO_240       x=-0.050   h=-1.000  units=m
+~ cond=2  TScable=CCISO_240       x= 0.050   h=-1.000  units=m
+~ cond=3  TScable=CCISO_240       x= 0.000   h=-0.9134 units=m
+New LineGeometry.UG_trefoil_400   nconds=3   nphases=3
+~ cond=1  TScable=CCISO_400       x=-0.050   h=-1.000  units=m
+~ cond=2  TScable=CCISO_400       x= 0.050   h=-1.000  units=m
+~ cond=3  TScable=CCISO_400       x= 0.000   h=-0.9134 units=m

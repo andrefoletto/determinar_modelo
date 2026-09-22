@@ -1,0 +1,33 @@
+// TRANSFORMADORES CARGAS ESPECIAIS
+
+New transformer.45PONTE XHL=2.79 windings=2 %loadloss=1.10 %noloadloss=0.50 %imag=1.60
+~ wdg=1 bus=0711 kv=13.8 kva=45 conn=delta
+~ wdg=2 bus=0712 kv=0.38 kva=45 conn=wye
+
+New transformer.75VE1 XHL=3.04 windings=2 %loadloss=1.00 %noloadloss=0.48 %imag=1.30
+~ wdg=1 bus=2161 kv=13.8 kva=75 conn=delta
+~ wdg=2 bus=2162 kv=0.38 kva=75 conn=wye
+
+New transformer.75VE2 XHL=3.04 windings=2 %loadloss=1.00 %noloadloss=0.48 %imag=1.30
+~ wdg=1 bus=2191 kv=13.8 kva=75 conn=delta
+~ wdg=2 bus=2192 kv=0.38 kva=75 conn=wye
+
+New transformer.45IRRIGA XHL=2.79 windings=2 %loadloss=1.10 %noloadloss=0.50 %imag=1.60
+~ wdg=1 bus=3661 kv=13.8 kva=45 conn=delta
+~ wdg=2 bus=3662 kv=0.38 kva=45 conn=wye
+
+New transformer.30POCO1 XHL=2.75 windings=2 %loadloss=1.20 %noloadloss=0.55 %imag=1.80
+~ wdg=1 bus=3901 kv=13.8 kva=30 conn=delta
+~ wdg=2 bus=3902 kv=0.38 kva=30 conn=wye
+
+New transformer.45POCO2 XHL=2.79 windings=2 %loadloss=1.10 %noloadloss=0.50 %imag=1.60
+~ wdg=1 bus=3941 kv=13.8 kva=45 conn=delta
+~ wdg=2 bus=3942 kv=0.38 kva=45 conn=wye
+
+New transformer.45PIVO XHL=2.79 windings=2 %loadloss=1.10 %noloadloss=0.50 %imag=1.60
+~ wdg=1 bus=4441 kv=13.8 kva=45 conn=delta
+~ wdg=2 bus=4442 kv=0.38 kva=45 conn=wye
+
+New transformer.1125ANTENA XHL=3.37 windings=2 %loadloss=0.95 %noloadloss=0.45 %imag=1.20
+~ wdg=1 bus=4791 kv=13.8 kva=112.5 conn=delta
+~ wdg=2 bus=4792 kv=0.22 kva=112.5 conn=wye

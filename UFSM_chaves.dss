@@ -1,0 +1,183 @@
+// CHAVES-FACA
+New line.0010_0011 phases=3 bus1=0010 bus2=0011 Switch=y enable=true  !CF00 GERAL
+New line.0020_0021 phases=3 bus1=0020 bus2=0021 Switch=y enable=true  !CF01 GERAL LADO1 NF
+New line.0260_0261 phases=3 bus1=0260 bus2=0261 Switch=y enable=true  !CF02 PASSARELA HUSM NF
+New line.0270_0271 phases=3 bus1=0270 bus2=0271 Switch=y enable=true  !CF03 PASSARELA HUSM NF
+New line.0310_0311 phases=3 bus1=0310 bus2=0311 Switch=y enable=true  !CF04 FIM R DUPLA NF
+New line.0830_0831 phases=3 bus1=0830 bus2=0831 Switch=y enable=true  !CF05 ATRAS CEUs NF
+New line.0890_0891 phases=3 bus1=0890 bus2=0891 Switch=y enable=true  !CF06 RAMAL CEUs NF
+New line.1100_1101 phases=3 bus1=1100 bus2=1101 Switch=y enable=true  !CF07 ESQ TOWNH NF
+New line.1380_1381 phases=3 bus1=1380 bus2=1381 Switch=y enable=true  !CF08 RAMAL REIT LADO1 NF
+New line.1520_1521 phases=3 bus1=1520 bus2=1521 Switch=y enable=true  !CF09 CONV NF
+New line.1550_1551 phases=3 bus1=1550 bus2=1551 Switch=y enable=false !CF10 RAMAL REIT LADO2 NA
+New line.1990_1991 phases=3 bus1=1990 bus2=1991 Switch=y enable=false !CF11 ESQ MUSEU NF
+New line.2000_2001 phases=3 bus1=2000 bus2=2001 Switch=y enable=true  !CF12 GERAL LADO2 NF
+New line.2080_2081 phases=3 bus1=2080 bus2=2081 Switch=y enable=true  !CF13 ESQ INRI NF
+New line.2300_2301 phases=3 bus1=2300 bus2=2301 Switch=y enable=true  !CF14 ESQ LMCC NF
+New line.2550_2551 phases=3 bus1=2550 bus2=2551 Switch=y enable=true  !CF15 ESQ FATEC NF
+New line.2670_2671 phases=3 bus1=2670 bus2=2671 Switch=y enable=true  !CF16 RAMAL BASICOS
+New line.3130_3131 phases=3 bus1=3130 bus2=3131 Switch=y enable=true  !CF17 ANTES ESQ POLI NF
+New line.3170_3171 phases=3 bus1=3170 bus2=3171 Switch=y enable=true  !CF18 DEPOIS ESQ POLI NF
+New line.3350_3351 phases=3 bus1=3350 bus2=3351 Switch=y enable=true  !CF19 ANTES ESQ MUSEU NF
+New line.4450_4451 phases=3 bus1=4450 bus2=4451 Switch=y enable=true  !CF20 TRAV LINHA 69KV NF
+New line.4460_4461 phases=3 bus1=4460 bus2=4461 Switch=y enable=true  !CF21 TRAV LINHA 69kV NF
+
+// CHAVES FUSIVEIS CORTA-CIRCUITO
+New line.0330_0331 phases=3 bus1=0330 bus2=0331 Switch=y enable=true  !CCIRC01 RAMAL ODONTO/MADAME
+New line.1120_1121 phases=3 bus1=1120 bus2=1121 Switch=y enable=true  !CCIRC02 RAMAL INDIGENA/SOLOS
+New line.1270_1271 phases=3 bus1=1270 bus2=1271 Switch=y enable=true  !CCIRC03 RAMAL CEFD
+New line.1570_1571 phases=3 bus1=1570 bus2=1571 Switch=y enable=true  !CCIRC04 RAMAL PISCINAS
+New line.1660_1661 phases=3 bus1=1660 bus2=1661 Switch=y enable=true  !CCIRC05 RAMAL PARQUE
+New line.1810_1811 phases=3 bus1=1810 bus2=1811 Switch=y enable=true  !CCIRC06 RAMAL REMATE
+New line.2270_2271 phases=3 bus1=2270 bus2=2271 Switch=y enable=true  !CCIRC07 RAMAL HIDRAULICA
+New line.2470_2471 phases=3 bus1=2470 bus2=2471 Switch=y enable=true  !CCIRC08 RAMAL NAPO
+New line.2760_2761 phases=3 bus1=2760 bus2=2761 Switch=y enable=true  !CCIRC09 RAMAL CCR/CAL
+New line.2910_2911 phases=3 bus1=2910 bus2=2911 Switch=y enable=true  !CCIRC10 RAMAL NIDAL
+New line.3270_3271 phases=3 bus1=3270 bus2=3271 Switch=y enable=true  !CCIRC11 RAMAL COMUNIC
+New line.3370_3371 phases=3 bus1=3370 bus2=3371 Switch=y enable=true  !CCIRC12 RAMAL HVU/BIOT/TAMBO
+New line.3400_3401 phases=3 bus1=3400 bus2=3401 Switch=y enable=true  !CCIRC13 RAMAL HVU
+New line.3450_3451 phases=3 bus1=3450 bus2=3451 Switch=y enable=true  !CCIRC14 RAMAL BIOT/TAMBO
+New line.3830_3831 phases=3 bus1=3830 bus2=3831 Switch=y enable=true  !CCIRC15 RAMAL MANUTENCAO
+New line.3910_3911 phases=3 bus1=3910 bus2=3911 Switch=y enable=true  !CCIRC16 RAMAL BOTANICO/ANOVA
+New line.4200_4201 phases=3 bus1=4200 bus2=4201 Switch=y enable=true  !CCIRC17 RAMAL GUARITA/ANOVA
+New line.4280_4281 phases=3 bus1=4280 bus2=4281 Switch=y enable=true  !CCIRC18 RAMAL ANOVA
+New line.4800_4801 phases=3 bus1=4800 bus2=4801 Switch=y enable=true  !CCIRC19 RAMAL POLI/AVIC/PISCIC
+New line.4940_4941 phases=3 bus1=4940 bus2=4941 Switch=y enable=true  !CCIRC20 RAMAL PISCIC
+
+// CHAVES FUSIVEIS TRANSFORMADORES
+New line.0030_0031 phases=3 bus1=0030 bus2=0031 Switch=y enable=true  !CFUS01 CTISM1
+New line.0060_0061 phases=3 bus1=0060 bus2=0061 Switch=y enable=true  !CFUS02 INCUB
+New line.0110_0111 phases=3 bus1=0110 bus2=0111 Switch=y enable=true  !CFUS03 BANCOS
+New line.0200_0201 phases=3 bus1=0200 bus2=0201 Switch=y enable=true  !CFUS04 CCS
+New line.0350_0351 phases=3 bus1=0350 bus2=0351 Switch=y enable=true  !CFUS05 BIOEQ
+New line.0380_0381 phases=3 bus1=0380 bus2=0381 Switch=y enable=true  !CFUS06 FONO
+New line.0410_0411 phases=3 bus1=0410 bus2=0411 Switch=y enable=true  !CFUS07 TEROC
+New line.0430_0431 phases=3 bus1=0430 bus2=0431 Switch=y enable=true  !CFUS08 MEDIC
+New line.0480_0481 phases=3 bus1=0480 bus2=0481 Switch=y enable=true  !CFUS09 NUDEMA
+New line.0500_0501 phases=3 bus1=0500 bus2=0501 Switch=y enable=true  !CFUS10 ODONTO
+New line.0550_0551 phases=3 bus1=0550 bus2=0551 Switch=y enable=true  !CFUS11 MADAME
+New line.0620_0621 phases=3 bus1=0620 bus2=0621 Switch=y enable=true  !CFUS12 RESIDUOS
+New line.0650_0651 phases=3 bus1=0650 bus2=0651 Switch=y enable=true  !CFUS13 BIBC
+New line.0710_0711 phases=3 bus1=0710 bus2=0711 Switch=y enable=true  !CFUS14 PONTE
+New line.0750_0751 phases=3 bus1=0750 bus2=0751 Switch=y enable=true  !CFUS15 RU
+New line.0860_0861 phases=3 bus1=0860 bus2=0861 Switch=y enable=true  !CFUS16 CEU1F
+New line.0940_0941 phases=3 bus1=0940 bus2=0941 Switch=y enable=true  !CFUS17 CEU1E
+New line.0980_0981 phases=3 bus1=0980 bus2=0981 Switch=y enable=true  !CFUS18 CEU1D
+New line.1030_1031 phases=3 bus1=1030 bus2=1031 Switch=y enable=true  !CFUS19 CEU1C
+New line.1080_1081 phases=3 bus1=1080 bus2=1081 Switch=y enable=true  !CFUS20 CEU1B
+New line.1090_1091 phases=3 bus1=1090 bus2=1091 Switch=y enable=true  !CFUS21 CEU1A
+New line.1200_1201 phases=3 bus1=1200 bus2=1201 Switch=y enable=true  !CFUS22 INDIGENA
+New line.1240_1241 phases=3 bus1=1240 bus2=1241 Switch=y enable=true  !CFUS23 SOLOS
+New line.1320_1321 phases=3 bus1=1320 bus2=1321 Switch=y enable=true  !CFUS24 CEFD
+New line.1390_1391 phases=3 bus1=1390 bus2=1391 Switch=y enable=true  !CFUS25 DERCA
+New line.1440_1441 phases=3 bus1=1440 bus2=1441 Switch=y enable=true  !CFUS26 CPD
+New line.1450_1451 phases=3 bus1=1450 bus2=1451 Switch=y enable=true  !CFUS27 REITORIA
+New line.1480_1481 phases=3 bus1=1480 bus2=1481 Switch=y enable=true  !CFUS28 CONV
+New line.1530_1531 phases=3 bus1=1530 bus2=1531 Switch=y enable=true  !CFUS29 ECUMENICO
+New line.1600_1601 phases=3 bus1=1600 bus2=1601 Switch=y enable=true  !CFUS30 PISCINAS
+New line.1700_1701 phases=3 bus1=1700 bus2=1701 Switch=y enable=true  !CFUS31 PARQUE1
+New line.1780_1781 phases=3 bus1=1780 bus2=1781 Switch=y enable=true  !CFUS32 PARQUE2
+New line.1830_1831 phases=3 bus1=1830 bus2=1831 Switch=y enable=true  !CFUS33 REMATE
+New line.1850_1851 phases=3 bus1=1850 bus2=1851 Switch=y enable=true  !CFUS34 PARQUE3
+New line.1880_1881 phases=3 bus1=1880 bus2=1881 Switch=y enable=true  !CFUS35 AGITTEC
+New line.1920_1921 phases=3 bus1=1920 bus2=1921 Switch=y enable=true  !CFUS36 REDEBIO
+New line.1980_1981 phases=3 bus1=1980 bus2=1981 Switch=y enable=true  !CFUS37 MUSEU
+New line.2020_2021 phases=3 bus1=2020 bus2=2021 Switch=y enable=true  !CFUS38 GRAFICA
+New line.2060_2061 phases=3 bus1=2060 bus2=2061 Switch=y enable=true  !CFUS39 CTISM2
+New line.2110_2111 phases=3 bus1=2110 bus2=2111 Switch=y enable=true  !CFUS40 LMOT
+New line.2130_2131 phases=3 bus1=2130 bus2=2131 Switch=y enable=true  !CFUS41 INRI
+New line.2140_2141 phases=3 bus1=2140 bus2=2141 Switch=y enable=true  !CFUS42 HANGAR
+New line.2150_2151 phases=3 bus1=2150 bus2=2151 Switch=y enable=true  !CFUS43 UFV100
+New line.2160_2161 phases=3 bus1=2160 bus2=2161 Switch=y enable=true  !CFUS44 VE1
+New line.2190_2191 phases=3 bus1=2190 bus2=2191 Switch=y enable=true  !CFUS45 VE2
+New line.2210_2211 phases=3 bus1=2210 bus2=2211 Switch=y enable=true  !CFUS46 ARQUIT
+New line.2240_2241 phases=3 bus1=2240 bus2=2241 Switch=y enable=true  !CFUS47 INPE
+New line.2250_2251 phases=3 bus1=2250 bus2=2251 Switch=y enable=true  !CFUS48 NTE
+New line.2260_2261 phases=3 bus1=2260 bus2=2261 Switch=y enable=true  !CFUS49 ENGQUIM
+New line.2280_2281 phases=3 bus1=2280 bus2=2281 Switch=y enable=true  !CFUS50 HIDR
+New line.2310_2311 phases=3 bus1=2310 bus2=2311 Switch=y enable=true  !CFUS51 LMCC
+New line.2340_2341 phases=3 bus1=2340 bus2=2341 Switch=y enable=true  !CFUS52 QUIMICA
+New line.2350_2351 phases=3 bus1=2350 bus2=2351 Switch=y enable=true  !CFUS53 PAVCT
+New line.2350_2355 phases=3 bus1=2350 bus2=2355 Switch=y enable=true  !CFUS54 CTC
+New line.2360_2361 phases=3 bus1=2360 bus2=2361 Switch=y enable=true  !CFUS55 CCNE
+New line.2360_2365 phases=3 bus1=2360 bus2=2365 Switch=y enable=true  !CFUS56 CTEC
+New line.2370_2371 phases=3 bus1=2370 bus2=2371 Switch=y enable=true  !CFUS57 CE2
+New line.2400_2401 phases=3 bus1=2400 bus2=2401 Switch=y enable=true  !CFUS58 RU2
+New line.2430_2431 phases=3 bus1=2430 bus2=2431 Switch=y enable=true  !CFUS59 CE1
+New line.2460_2462 phases=3 bus1=2460 bus2=2462 Switch=y enable=true  !CFUS60 ALMOX
+New line.2500_2501 phases=3 bus1=2500 bus2=2501 Switch=y enable=true  !CFUS61 NAPO1
+New line.2540_2541 phases=3 bus1=2540 bus2=2541 Switch=y enable=true  !CFUS62 NAPO2
+New line.2570_2571 phases=3 bus1=2570 bus2=2571 Switch=y enable=true  !CFUS63 FATEC
+New line.2620_2621 phases=3 bus1=2620 bus2=2621 Switch=y enable=true  !CFUS64 QPETR
+New line.2630_2631 phases=3 bus1=2630 bus2=2631 Switch=y enable=true  !CFUS65 ACESS
+New line.2650_2651 phases=3 bus1=2650 bus2=2651 Switch=y enable=true  !CFUS66 CEEMA
+New line.2680_2681 phases=3 bus1=2680 bus2=2681 Switch=y enable=true  !CFUS67 P21
+New line.2700_2701 phases=3 bus1=2700 bus2=2701 Switch=y enable=true  !CFUS68 P19
+New line.2710_2711 phases=3 bus1=2710 bus2=2711 Switch=y enable=true  !CFUS69 P18
+New line.2720_2721 phases=3 bus1=2720 bus2=2721 Switch=y enable=true  !CFUS70 P17
+New line.2770_2771 phases=3 bus1=2770 bus2=2771 Switch=y enable=true  !CFUS71 DENDROL
+New line.2790_2791 phases=3 bus1=2790 bus2=2791 Switch=y enable=true  !CFUS72 CCR2
+New line.2800_2801 phases=3 bus1=2800 bus2=2801 Switch=y enable=true  !CFUS73 LSOLOS
+New line.2820_2821 phases=3 bus1=2820 bus2=2821 Switch=y enable=true  !CFUS74 CCR1
+New line.2860_2861 phases=3 bus1=2860 bus2=2861 Switch=y enable=true  !CFUS75 CAL
+New line.2880_2881 phases=3 bus1=2880 bus2=2881 Switch=y enable=true  !CFUS76 GEOMAT
+New line.2920_2921 phases=3 bus1=2920 bus2=2921 Switch=y enable=true  !CFUS77 NIDAL
+New line.2940_2941 phases=3 bus1=2940 bus2=2941 Switch=y enable=true  !CFUS78 LETRAS
+New line.3000_3001 phases=3 bus1=3000 bus2=3001 Switch=y enable=true  !CFUS79 DANCA
+New line.3020_3021 phases=3 bus1=3020 bus2=3021 Switch=y enable=true  !CFUS80 CCSHC2
+New line.3040_3041 phases=3 bus1=3040 bus2=3041 Switch=y enable=true  !CFUS81 MUSICA
+New line.3060_3061 phases=3 bus1=3060 bus2=3061 Switch=y enable=true  !CFUS82 BIOFLOR
+New line.3090_3091 phases=3 bus1=3090 bus2=3091 Switch=y enable=true  !CFUS83 PLANET
+New line.3100_3101 phases=3 bus1=3100 bus2=3101 Switch=y enable=true  !CFUS84 CCSHC1
+New line.3110_3111 phases=3 bus1=3110 bus2=3111 Switch=y enable=true  !CFUS85 CCSHB
+New line.3120_3121 phases=3 bus1=3120 bus2=3121 Switch=y enable=true  !CFUS86 CCSHA
+New line.3200_3201 phases=3 bus1=3200 bus2=3201 Switch=y enable=true  !CFUS87 POLI2
+New line.3240_3241 phases=3 bus1=3240 bus2=3241 Switch=y enable=true  !CFUS88 POLI3
+New line.3260_3261 phases=3 bus1=3260 bus2=3261 Switch=y enable=true  !CFUS89 DESTIL
+New line.3300_3301 phases=3 bus1=3300 bus2=3301 Switch=y enable=true  !CFUS90 COMUN
+New line.3410_3411 phases=3 bus1=3410 bus2=3411 Switch=y enable=true  !CFUS91 HVU
+New line.3460_3461 phases=3 bus1=3460 bus2=3461 Switch=y enable=true  !CFUS92 BIOT
+New line.3590_3591 phases=3 bus1=3590 bus2=3591 Switch=y enable=true  !CFUS93 CETAS
+New line.3660_3661 phases=3 bus1=3660 bus2=3661 Switch=y enable=true  !CFUS94 IRRIGA
+New line.3720_3721 phases=3 bus1=3720 bus2=3721 Switch=y enable=true  !CFUS95 TAMBO
+New line.3790_3791 phases=3 bus1=3790 bus2=3791 Switch=y enable=true  !CFUS96 LATIC
+New line.3810_3811 phases=3 bus1=3810 bus2=3811 Switch=y enable=true  !CFUS97 LARP
+New line.3870_3871 phases=3 bus1=3870 bus2=3871 Switch=y enable=true  !CFUS98 MAN
+New line.3900_3901 phases=3 bus1=3900 bus2=3901 Switch=y enable=true  !CFUS99 POCO1
+New line.3940_3941 phases=3 bus1=3940 bus2=3941 Switch=y enable=true  !CFUS100 POCO2
+New line.4000_4001 phases=3 bus1=4000 bus2=4001 Switch=y enable=true  !CFUS101 ENATURAL
+New line.4060_4061 phases=3 bus1=4060 bus2=4061 Switch=y enable=true  !CFUS102 BOT1
+New line.4090_4091 phases=3 bus1=4090 bus2=4091 Switch=y enable=true  !CFUS103 BOT2
+New line.4180_4181 phases=3 bus1=4180 bus2=4181 Switch=y enable=true  !CFUS104 COXILHA
+New line.4440_4441 phases=3 bus1=4440 bus2=4441 Switch=y enable=true  !CFUS105 PIVO
+New line.4760_4761 phases=3 bus1=4760 bus2=4761 Switch=y enable=true  !CFUS106 GALPAO
+New line.4790_4791 phases=3 bus1=4790 bus2=4791 Switch=y enable=true  !CFUS107 ANTENA
+New line.4810_4811 phases=3 bus1=4810 bus2=4811 Switch=y enable=true  !CFUS108 POLI1
+New line.4850_4851 phases=3 bus1=4850 bus2=4851 Switch=y enable=true  !CFUS109 AVIARIO1
+New line.4890_4891 phases=3 bus1=4890 bus2=4891 Switch=y enable=true  !CFUS110 RACOES
+New line.4910_4911 phases=3 bus1=4910 bus2=4911 Switch=y enable=true  !CFUS111 AVIARIO2
+New line.4930_4931 phases=3 bus1=4930 bus2=4931 Switch=y enable=true  !CFUS112 ZOOTEC
+New line.5020_5021 phases=3 bus1=5020 bus2=5021 Switch=y enable=true  !CFUS113 PISCIC
+New line.5090_5091 phases=3 bus1=5090 bus2=5091 Switch=y enable=true  !CFUS114 SUINOC
+New line.5150_5151 phases=3 bus1=5150 bus2=5151 Switch=y enable=true  !CFUS115 POMAR
+New line.5160_5161 phases=3 bus1=5160 bus2=5161 Switch=y enable=true  !CFUS116 BIOINS
+
+// CHAVES FUSIVEIS CAPACITORES
+New line.0660_0661 phases=3 bus1=0660 bus2=0661 Switch=y enable=true  !CFUSCAP01 CAP1
+New line.2290_2291 phases=3 bus1=2290 bus2=2291 Switch=y enable=true  !CFUSCAP02 CAP2
+
+// RELIGADORES
+New line.0880_0881 phases=3 bus1=0880 bus2=0881 Switch=y enable=true  !RL03 NF
+New line.1970_1971 phases=3 bus1=1970 bus2=1971 Switch=y enable=true  !RL04 NF
+New line.2730_2731 phases=3 bus1=2730 bus2=2731 Switch=y enable=true  !RL02 NF
+New line.3890_3891 phases=3 bus1=3890 bus2=3891 Switch=y enable=true  !RL01 NF
+
+// DISJUNTORES
+New line.0016_0017 phases=3 bus1=0016 bus2=0017 Switch=y enable=true  !DJ01 GERAL LADO1 NF
+New line.0752_0753 phases=3 bus1=0752 bus2=0753 Switch=y enable=true  !DJ02 RU NF
+New line.1522_1523 phases=3 bus1=1522 bus2=1523 Switch=y enable=true  !DJ03 CONV NF
+New line.0016_0018 phases=3 bus1=0016 bus2=0018 Switch=y enable=true  !DJ04 GERAL LADO2 NF
+New line.2245_2246 phases=3 bus1=2245 bus2=2246 Switch=y enable=true  !DJ05 INPE NF
+New line.2723_2724 phases=3 bus1=2723 bus2=2724 Switch=y enable=true  !DJ06 P17 NF
+New line.0015_0016 phases=3 bus1=0015 bus2=0016 Switch=y enable=true  !DJ07 DISJUNTOR BIDIRECIONAL A INSTALAR NF
+

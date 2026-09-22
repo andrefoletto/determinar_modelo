@@ -1,0 +1,3 @@
+// CAPACITORES 13.8kV
+New Capacitor.CAP01 phases=3 bus1=0661.1.2.3 bus2=0661.4.4.4 kvar=150 kv=13.8
+New Capacitor.CAP02 phases=3 bus1=2291.1.2.3 bus2=2291.4.4.4 kvar=150 kv=13.8

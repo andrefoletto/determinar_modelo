@@ -1,0 +1,582 @@
+// LINHAS UFSM
+New line.0011_0012 phases=3 bus1=0011 bus2=0012 length=0.010 units=km Geometry=UG_trefoil_400 !SUBTERRANEA GERAL
+New line.0012_0013 phases=3 bus1=0012 bus2=0013 length=0.018 units=km Geometry=UG_trefoil_400 !SUBTERRANEA GERAL
+New line.0013_0014 phases=3 bus1=0013 bus2=0014 length=0.008 units=km Geometry=UG_trefoil_400 !SUBTERRANEA GERAL
+New line.0014_0015 phases=3 bus1=0014 bus2=0015 length=0.006 units=km Geometry=UG_trefoil_400 !SUBTERRANEA GERAL
+New line.0017_0020 phases=3 bus1=0017 bus2=0020 length=0.016 units=km Geometry=UG_trefoil_240 !SUBTERRANEA LADO1
+New line.0021_0030 phases=3 bus1=0021 bus2=0030 length=0.004 units=km Geometry=3prot95mm2
+New line.0030_0040 phases=3 bus1=0030 bus2=0040 length=0.038 units=km Geometry=3prot95mm2
+New line.0040_0050 phases=3 bus1=0040 bus2=0050 length=0.045 units=km Geometry=3prot95mm2
+New line.0050_0060 phases=3 bus1=0050 bus2=0060 length=0.045 units=km Geometry=3prot95mm2
+New line.0060_0070 phases=3 bus1=0060 bus2=0070 length=0.042 units=km Geometry=3prot95mm2
+New line.0070_0080 phases=3 bus1=0070 bus2=0080 length=0.044 units=km Geometry=3prot95mm2
+New line.0080_0090 phases=3 bus1=0080 bus2=0090 length=0.033 units=km Geometry=3prot95mm2
+New line.0090_0100 phases=3 bus1=0090 bus2=0100 length=0.029 units=km Geometry=3prot95mm2
+New line.0100_0110 phases=3 bus1=0100 bus2=0110 length=0.023 units=km Geometry=3prot95mm2
+New line.0110_0120 phases=3 bus1=0110 bus2=0120 length=0.026 units=km Geometry=3prot95mm2
+New line.0120_0130 phases=3 bus1=0120 bus2=0130 length=0.021 units=km Geometry=3prot95mm2
+New line.0130_0140 phases=3 bus1=0130 bus2=0140 length=0.037 units=km Geometry=3prot95mm2
+New line.0140_0150 phases=3 bus1=0140 bus2=0150 length=0.030 units=km Geometry=3prot95mm2
+New line.0150_0160 phases=3 bus1=0150 bus2=0160 length=0.029 units=km Geometry=3prot95mm2
+New line.0160_0170 phases=3 bus1=0160 bus2=0170 length=0.026 units=km Geometry=3prot50mm2
+New line.0170_0180 phases=3 bus1=0170 bus2=0180 length=0.029 units=km Geometry=3prot50mm2
+New line.0180_0190 phases=3 bus1=0180 bus2=0190 length=0.033 units=km Geometry=3prot50mm2
+New line.0190_0200 phases=3 bus1=0190 bus2=0200 length=0.016 units=km Geometry=3prot50mm2
+New line.0160_0210 phases=3 bus1=0160 bus2=0210 length=0.021 units=km Geometry=3prot95mm2
+New line.0210_0220 phases=3 bus1=0210 bus2=0220 length=0.029 units=km Geometry=3prot95mm2
+New line.0220_0230 phases=3 bus1=0220 bus2=0230 length=0.026 units=km Geometry=3prot95mm2
+New line.0230_0240 phases=3 bus1=0230 bus2=0240 length=0.043 units=km Geometry=3prot95mm2
+New line.0240_0250 phases=3 bus1=0240 bus2=0250 length=0.038 units=km Geometry=3prot95mm2
+New line.0250_0260 phases=3 bus1=0250 bus2=0260 length=0.005 units=km Geometry=3prot95mm2
+New line.0261_0270 phases=3 bus1=0261 bus2=0270 length=0.032 units=km Geometry=UG_trefoil_185 !SUBTERRANEA HUSM
+New line.0271_0280 phases=3 bus1=0271 bus2=0280 length=0.008 units=km Geometry=3prot95mm2
+New line.0280_0290 phases=3 bus1=0280 bus2=0290 length=0.028 units=km Geometry=3prot95mm2
+New line.0290_0300 phases=3 bus1=0290 bus2=0300 length=0.026 units=km Geometry=3prot95mm2
+New line.0300_0310 phases=3 bus1=0300 bus2=0310 length=0.012 units=km Geometry=3prot95mm2
+New line.0311_0320 phases=3 bus1=0311 bus2=0320 length=0.018 units=km Geometry=3prot95mm2
+New line.0320_0330 phases=3 bus1=0320 bus2=0330 length=0.009 units=km Geometry=3CAA4awg
+New line.0331_0340 phases=3 bus1=0331 bus2=0340 length=0.039 units=km Geometry=3CAA4awg
+New line.0340_0350 phases=3 bus1=0340 bus2=0350 length=0.038 units=km Geometry=3CAA4awg
+New line.0351_0360 phases=3 bus1=0351 bus2=0360 length=0.070 units=km Geometry=3CAA4awg
+New line.0350_0370 phases=3 bus1=0350 bus2=0370 length=0.069 units=km Geometry=3CAA4awg
+New line.0370_0380 phases=3 bus1=0370 bus2=0380 length=0.054 units=km Geometry=3CAA4awg
+New line.0380_0390 phases=3 bus1=0380 bus2=0390 length=0.042 units=km Geometry=3CAA4awg
+New line.0390_0400 phases=3 bus1=0390 bus2=0400 length=0.041 units=km Geometry=3CAA4awg
+New line.0400_0410 phases=3 bus1=0400 bus2=0410 length=0.023 units=km Geometry=3CAA4awg
+New line.0370_0420 phases=3 bus1=0370 bus2=0420 length=0.032 units=km Geometry=3CAA4awg
+New line.0420_0430 phases=3 bus1=0420 bus2=0430 length=0.015 units=km Geometry=3CAA4awg
+New line.0430_0440 phases=3 bus1=0430 bus2=0440 length=0.029 units=km Geometry=3CAA4awg
+New line.0440_0450 phases=3 bus1=0440 bus2=0450 length=0.022 units=km Geometry=3CAA4awg
+New line.0450_0460 phases=3 bus1=0450 bus2=0460 length=0.031 units=km Geometry=3CAA4awg
+New line.0460_0470 phases=3 bus1=0460 bus2=0470 length=0.038 units=km Geometry=3CAA4awg
+New line.0470_0480 phases=3 bus1=0470 bus2=0480 length=0.018 units=km Geometry=3CAA4awg
+New line.0480_0490 phases=3 bus1=0480 bus2=0490 length=0.014 units=km Geometry=3CAA4awg
+New line.0490_0500 phases=3 bus1=0490 bus2=0500 length=0.039 units=km Geometry=3CAA4awg
+New line.0450_0510 phases=3 bus1=0450 bus2=0510 length=0.040 units=km Geometry=3CAA4awg
+New line.0510_0520 phases=3 bus1=0510 bus2=0520 length=0.078 units=km Geometry=3CAA4awg
+New line.0520_0530 phases=3 bus1=0520 bus2=0530 length=0.052 units=km Geometry=3CAA4awg
+New line.0530_0540 phases=3 bus1=0530 bus2=0540 length=0.052 units=km Geometry=3CAA4awg
+New line.0540_0550 phases=3 bus1=0540 bus2=0550 length=0.058 units=km Geometry=3CAA4awg
+New line.0550_0560 phases=3 bus1=0550 bus2=0560 length=0.035 units=km Geometry=3CAA4awg
+New line.0560_0570 phases=3 bus1=0560 bus2=0570 length=0.034 units=km Geometry=3CAA4awg
+New line.0570_0580 phases=3 bus1=0570 bus2=0580 length=0.034 units=km Geometry=3CAA4awg
+New line.0580_0590 phases=3 bus1=0580 bus2=0590 length=0.032 units=km Geometry=3CAA4awg
+New line.0590_0600 phases=3 bus1=0590 bus2=0600 length=0.088 units=km Geometry=3CAA4awg
+New line.0600_0610 phases=3 bus1=0600 bus2=0610 length=0.090 units=km Geometry=3CAA4awg
+New line.0610_0620 phases=3 bus1=0610 bus2=0620 length=0.062 units=km Geometry=3CAA4awg
+New line.0620_0630 phases=3 bus1=0620 bus2=0630 length=0.032 units=km Geometry=3CAA4awg
+New line.0320_0640 phases=3 bus1=0320 bus2=0640 length=0.022 units=km Geometry=3prot95mm2
+New line.0640_0650 phases=3 bus1=0640 bus2=0650 length=0.043 units=km Geometry=3CAA4awg
+New line.0651_0652 phases=3 bus1=0651 bus2=0652 length=0.020 units=km Geometry=UG_trefoil_25 !SUBTERRANEA BIBC
+New line.0640_0660 phases=3 bus1=0640 bus2=0660 length=0.033 units=km Geometry=3prot95mm2
+New line.0660_0670 phases=3 bus1=0660 bus2=0670 length=0.034 units=km Geometry=3prot95mm2
+New line.0670_0680 phases=3 bus1=0670 bus2=0680 length=0.034 units=km Geometry=3prot95mm2
+New line.0680_0690 phases=3 bus1=0680 bus2=0690 length=0.036 units=km Geometry=3prot95mm2
+New line.0690_0700 phases=3 bus1=0690 bus2=0700 length=0.037 units=km Geometry=3prot95mm2
+New line.0700_0710 phases=3 bus1=0700 bus2=0710 length=0.038 units=km Geometry=3prot95mm2
+New line.0710_0720 phases=3 bus1=0710 bus2=0720 length=0.036 units=km Geometry=3prot95mm2
+New line.0720_0730 phases=3 bus1=0720 bus2=0730 length=0.042 units=km Geometry=3prot95mm2
+New line.0730_0740 phases=3 bus1=0730 bus2=0740 length=0.040 units=km Geometry=3prot95mm2
+New line.0740_0750 phases=3 bus1=0740 bus2=0750 length=0.040 units=km Geometry=3prot95mm2
+New line.0751_0752 phases=3 bus1=0751 bus2=0752 length=0.020 units=km Geometry=UG_trefoil_25 !SUBTERRANEA RU
+New line.0750_0760 phases=3 bus1=0750 bus2=0760 length=0.030 units=km Geometry=3prot95mm2
+New line.0760_0770 phases=3 bus1=0760 bus2=0770 length=0.025 units=km Geometry=3prot95mm2
+New line.0770_0780 phases=3 bus1=0770 bus2=0780 length=0.017 units=km Geometry=3prot95mm2
+New line.0780_0790 phases=3 bus1=0780 bus2=0790 length=0.015 units=km Geometry=3prot95mm2
+New line.0790_0800 phases=3 bus1=0790 bus2=0800 length=0.019 units=km Geometry=3prot95mm2
+New line.0800_0810 phases=3 bus1=0800 bus2=0810 length=0.030 units=km Geometry=3prot95mm2
+New line.0810_0820 phases=3 bus1=0810 bus2=0820 length=0.024 units=km Geometry=3prot95mm2
+New line.0820_0830 phases=3 bus1=0820 bus2=0830 length=0.037 units=km Geometry=3prot95mm2
+New line.0831_0840 phases=3 bus1=0831 bus2=0840 length=0.014 units=km Geometry=3prot95mm2
+New line.0840_0850 phases=3 bus1=0840 bus2=0850 length=0.027 units=km Geometry=3prot95mm2
+New line.0850_0860 phases=3 bus1=0850 bus2=0860 length=0.024 units=km Geometry=3prot50mm2
+New line.0850_0870 phases=3 bus1=0850 bus2=0870 length=0.026 units=km Geometry=3prot95mm2
+New line.0870_0880 phases=3 bus1=0870 bus2=0880 length=0.024 units=km Geometry=3prot95mm2
+New line.0881_0890 phases=3 bus1=0881 bus2=0890 length=0.030 units=km Geometry=3prot95mm2
+New line.0891_0900 phases=3 bus1=0891 bus2=0900 length=0.025 units=km Geometry=3prot50mm2
+New line.0900_0910 phases=3 bus1=0900 bus2=0910 length=0.026 units=km Geometry=3prot50mm2
+New line.0910_0920 phases=3 bus1=0910 bus2=0920 length=0.036 units=km Geometry=3prot50mm2
+New line.0920_0930 phases=3 bus1=0920 bus2=0930 length=0.032 units=km Geometry=3prot50mm2
+New line.0930_0940 phases=3 bus1=0930 bus2=0940 length=0.032 units=km Geometry=3prot50mm2
+New line.0910_0950 phases=3 bus1=0910 bus2=0950 length=0.022 units=km Geometry=3prot50mm2
+New line.0950_0960 phases=3 bus1=0950 bus2=0960 length=0.023 units=km Geometry=3prot50mm2
+New line.0960_0970 phases=3 bus1=0960 bus2=0970 length=0.031 units=km Geometry=3prot50mm2
+New line.0970_0980 phases=3 bus1=0970 bus2=0980 length=0.030 units=km Geometry=3prot50mm2
+New line.0960_0990 phases=3 bus1=0960 bus2=0990 length=0.023 units=km Geometry=3prot50mm2
+New line.0990_1000 phases=3 bus1=0990 bus2=1000 length=0.024 units=km Geometry=3prot50mm2
+New line.1000_1010 phases=3 bus1=1000 bus2=1010 length=0.027 units=km Geometry=3prot50mm2
+New line.1010_1020 phases=3 bus1=1010 bus2=1020 length=0.027 units=km Geometry=3prot50mm2
+New line.1020_1030 phases=3 bus1=1020 bus2=1030 length=0.028 units=km Geometry=3prot50mm2
+New line.1000_1040 phases=3 bus1=1000 bus2=1040 length=0.025 units=km Geometry=3prot50mm2
+New line.1040_1050 phases=3 bus1=1040 bus2=1050 length=0.025 units=km Geometry=3prot50mm2
+New line.1050_1060 phases=3 bus1=1050 bus2=1060 length=0.022 units=km Geometry=3prot50mm2
+New line.1060_1070 phases=3 bus1=1060 bus2=1070 length=0.023 units=km Geometry=3prot50mm2
+New line.1070_1080 phases=3 bus1=1070 bus2=1080 length=0.022 units=km Geometry=3prot50mm2
+New line.1070_1090 phases=3 bus1=1070 bus2=1090 length=0.039 units=km Geometry=3prot50mm2
+New line.0890_1100 phases=3 bus1=0890 bus2=1100 length=0.025 units=km Geometry=3prot95mm2
+New line.1101_1110 phases=3 bus1=1101 bus2=1110 length=0.021 units=km Geometry=3prot95mm2
+New line.1100_1120 phases=3 bus1=1100 bus2=1120 length=0.014 units=km Geometry=3prot95mm2
+New line.1121_1130 phases=3 bus1=1121 bus2=1130 length=0.030 units=km Geometry=3prot50mm2
+New line.1130_1140 phases=3 bus1=1130 bus2=1140 length=0.034 units=km Geometry=3prot50mm2
+New line.1140_1150 phases=3 bus1=1140 bus2=1150 length=0.033 units=km Geometry=3prot50mm2
+New line.1150_1160 phases=3 bus1=1150 bus2=1160 length=0.031 units=km Geometry=3prot50mm2
+New line.1160_1170 phases=3 bus1=1160 bus2=1170 length=0.039 units=km Geometry=3prot50mm2
+New line.1170_1180 phases=3 bus1=1170 bus2=1180 length=0.032 units=km Geometry=3prot50mm2
+New line.1180_1190 phases=3 bus1=1180 bus2=1190 length=0.041 units=km Geometry=3prot50mm2
+New line.1190_1200 phases=3 bus1=1190 bus2=1200 length=0.031 units=km Geometry=3prot50mm2
+New line.1200_1210 phases=3 bus1=1200 bus2=1210 length=0.031 units=km Geometry=3prot50mm2
+New line.1210_1220 phases=3 bus1=1210 bus2=1220 length=0.031 units=km Geometry=3prot50mm2
+New line.1220_1230 phases=3 bus1=1220 bus2=1230 length=0.031 units=km Geometry=3prot50mm2
+New line.1230_1240 phases=3 bus1=1230 bus2=1240 length=0.010 units=km Geometry=3CAA4awg
+New line.1120_1250 phases=3 bus1=1120 bus2=1250 length=0.035 units=km Geometry=3prot95mm2
+New line.1250_1260 phases=3 bus1=1250 bus2=1260 length=0.048 units=km Geometry=3prot95mm2
+New line.1260_1270 phases=3 bus1=1260 bus2=1270 length=0.022 units=km Geometry=3prot95mm2
+New line.1271_1280 phases=3 bus1=1271 bus2=1280 length=0.030 units=km Geometry=3CAA4awg
+New line.1280_1290 phases=3 bus1=1280 bus2=1290 length=0.036 units=km Geometry=3CAA4awg
+New line.1290_1300 phases=3 bus1=1290 bus2=1300 length=0.036 units=km Geometry=3CAA4awg
+New line.1300_1310 phases=3 bus1=1300 bus2=1310 length=0.018 units=km Geometry=3CAA4awg
+New line.1310_1320 phases=3 bus1=1310 bus2=1320 length=0.018 units=km Geometry=3CAA4awg
+New line.1270_1330 phases=3 bus1=1270 bus2=1330 length=0.030 units=km Geometry=3prot95mm2
+New line.1330_1340 phases=3 bus1=1330 bus2=1340 length=0.024 units=km Geometry=3prot95mm2
+New line.1340_1350 phases=3 bus1=1340 bus2=1350 length=0.024 units=km Geometry=3prot95mm2
+New line.1350_1360 phases=3 bus1=1350 bus2=1360 length=0.022 units=km Geometry=3prot95mm2
+New line.1360_1370 phases=3 bus1=1360 bus2=1370 length=0.027 units=km Geometry=3prot95mm2
+New line.1370_1380 phases=3 bus1=1370 bus2=1380 length=0.032 units=km Geometry=3CAA10awg
+New line.1381_1390 phases=3 bus1=1381 bus2=1390 length=0.020 units=km Geometry=3CAA10awg
+New line.1391_1400 phases=3 bus1=1391 bus2=1400 length=0.006 units=km Geometry=3CAA4awg
+New line.1390_1410 phases=3 bus1=1390 bus2=1410 length=0.031 units=km Geometry=3CAA10awg
+New line.1410_1420 phases=3 bus1=1410 bus2=1420 length=0.050 units=km Geometry=3CAA10awg
+New line.1420_1430 phases=3 bus1=1420 bus2=1430 length=0.049 units=km Geometry=3CAA10awg
+New line.1430_1440 phases=3 bus1=1430 bus2=1440 length=0.047 units=km Geometry=3CAA10awg
+New line.1441_1442 phases=3 bus1=1441 bus2=1442 length=0.028 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CPD
+New line.1442_1443 phases=3 bus1=1442 bus2=1443 length=0.035 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CPD
+New line.1440_1450 phases=3 bus1=1440 bus2=1450 length=0.046 units=km Geometry=3CAA10awg
+New line.1451_1452 phases=3 bus1=1451 bus2=1452 length=0.082 units=km Geometry=UG_trefoil_25 !SUBTERRANEA REITORIA
+New line.1452_1453 phases=3 bus1=1452 bus2=1453 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA REITORIA
+New line.1450_1460 phases=3 bus1=1450 bus2=1460 length=0.053 units=km Geometry=3CAA10awg
+New line.1460_1470 phases=3 bus1=1460 bus2=1470 length=0.050 units=km Geometry=3CAA10awg
+New line.1470_1480 phases=3 bus1=1470 bus2=1480 length=0.052 units=km Geometry=3CAA10awg
+New line.1481_1490 phases=3 bus1=1481 bus2=1490 length=0.013 units=km Geometry=3prot50mm2
+New line.1490_1500 phases=3 bus1=1490 bus2=1500 length=0.040 units=km Geometry=3prot50mm2
+New line.1500_1510 phases=3 bus1=1500 bus2=1510 length=0.040 units=km Geometry=3prot50mm2
+New line.1510_1520 phases=3 bus1=1510 bus2=1520 length=0.030 units=km Geometry=3prot50mm2
+New line.1521_1522 phases=3 bus1=1521 bus2=1522 length=0.015 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CONV
+New line.1480_1530 phases=3 bus1=1480 bus2=1530 length=0.030 units=km Geometry=3CAA10awg
+New line.1530_1540 phases=3 bus1=1530 bus2=1540 length=0.031 units=km Geometry=3CAA10awg
+New line.1540_1550 phases=3 bus1=1540 bus2=1550 length=0.049 units=km Geometry=3CAA10awg
+New line.1551_3160 phases=3 bus1=1551 bus2=3160 length=0.037 units=km Geometry=3CAA10awg
+New line.1370_1560 phases=3 bus1=1370 bus2=1560 length=0.042 units=km Geometry=3prot95mm2
+New line.1560_1570 phases=3 bus1=1560 bus2=1570 length=0.042 units=km Geometry=3prot95mm2
+New line.1571_1580 phases=3 bus1=1571 bus2=1580 length=0.023 units=km Geometry=3CAA4awg
+New line.1580_1590 phases=3 bus1=1580 bus2=1590 length=0.044 units=km Geometry=3CAA4awg
+New line.1590_1600 phases=3 bus1=1590 bus2=1600 length=0.038 units=km Geometry=3CAA4awg
+New line.1570_1610 phases=3 bus1=1570 bus2=1610 length=0.032 units=km Geometry=3prot95mm2
+New line.1610_1620 phases=3 bus1=1610 bus2=1620 length=0.030 units=km Geometry=3prot95mm2
+New line.1620_1630 phases=3 bus1=1620 bus2=1630 length=0.020 units=km Geometry=3prot95mm2
+New line.1630_1640 phases=3 bus1=1630 bus2=1640 length=0.015 units=km Geometry=3prot95mm2
+New line.1640_1650 phases=3 bus1=1640 bus2=1650 length=0.032 units=km Geometry=3prot95mm2
+New line.1650_1660 phases=3 bus1=1650 bus2=1660 length=0.038 units=km Geometry=3prot95mm2
+New line.1661_1670 phases=3 bus1=1661 bus2=1670 length=0.030 units=km Geometry=3CAA4awg
+New line.1670_1680 phases=3 bus1=1670 bus2=1680 length=0.030 units=km Geometry=3CAA4awg
+New line.1680_1690 phases=3 bus1=1680 bus2=1690 length=0.030 units=km Geometry=3CAA4awg
+New line.1690_1700 phases=3 bus1=1690 bus2=1700 length=0.030 units=km Geometry=3CAA4awg
+New line.1700_1710 phases=3 bus1=1700 bus2=1710 length=0.030 units=km Geometry=3CAA4awg
+New line.1710_1720 phases=3 bus1=1710 bus2=1720 length=0.030 units=km Geometry=3CAA4awg
+New line.1720_1730 phases=3 bus1=1720 bus2=1730 length=0.030 units=km Geometry=3CAA4awg
+New line.1730_1740 phases=3 bus1=1730 bus2=1740 length=0.030 units=km Geometry=3CAA4awg
+New line.1660_1750 phases=3 bus1=1660 bus2=1750 length=0.042 units=km Geometry=3prot95mm2
+New line.1750_1760 phases=3 bus1=1750 bus2=1760 length=0.040 units=km Geometry=3prot95mm2
+New line.1760_1770 phases=3 bus1=1760 bus2=1770 length=0.043 units=km Geometry=3prot95mm2
+New line.1770_1780 phases=3 bus1=1770 bus2=1780 length=0.037 units=km Geometry=3prot95mm2
+New line.1780_1790 phases=3 bus1=1780 bus2=1790 length=0.040 units=km Geometry=3prot95mm2
+New line.1790_1800 phases=3 bus1=1790 bus2=1800 length=0.032 units=km Geometry=3prot95mm2
+New line.1800_1810 phases=3 bus1=1800 bus2=1810 length=0.028 units=km Geometry=3prot95mm2
+New line.1811_1820 phases=3 bus1=1811 bus2=1820 length=0.051 units=km Geometry=3CAA4awg
+New line.1820_1830 phases=3 bus1=1820 bus2=1830 length=0.033 units=km Geometry=3CAA4awg
+New line.1810_1840 phases=3 bus1=1810 bus2=1840 length=0.021 units=km Geometry=3prot95mm2
+New line.1840_1850 phases=3 bus1=1840 bus2=1850 length=0.023 units=km Geometry=3prot95mm2
+New line.1850_1860 phases=3 bus1=1850 bus2=1860 length=0.021 units=km Geometry=3prot95mm2
+New line.1860_1870 phases=3 bus1=1860 bus2=1870 length=0.031 units=km Geometry=3prot95mm2
+New line.1870_1880 phases=3 bus1=1870 bus2=1880 length=0.012 units=km Geometry=3prot50mm2
+New line.1870_1890 phases=3 bus1=1870 bus2=1890 length=0.032 units=km Geometry=3prot95mm2
+New line.1890_1900 phases=3 bus1=1890 bus2=1900 length=0.031 units=km Geometry=3prot95mm2
+New line.1900_1901 phases=3 bus1=1900 bus2=1901 length=0.009 units=km Geometry=3prot95mm2
+New line.1901_1910 phases=3 bus1=1901 bus2=1910 length=0.010 units=km Geometry=3CAA4awg
+New line.1901_1920 phases=3 bus1=1901 bus2=1920 length=0.021 units=km Geometry=3CAA4awg
+New line.1901_1930 phases=3 bus1=1901 bus2=1930 length=0.014 units=km Geometry=3prot95mm2
+New line.1930_1940 phases=3 bus1=1930 bus2=1940 length=0.023 units=km Geometry=3prot95mm2
+New line.1940_1950 phases=3 bus1=1940 bus2=1950 length=0.043 units=km Geometry=3prot95mm2
+New line.1950_1960 phases=3 bus1=1950 bus2=1960 length=0.043 units=km Geometry=3prot95mm2
+New line.1960_1970 phases=3 bus1=1960 bus2=1970 length=0.039 units=km Geometry=3prot95mm2
+New line.1971_1980 phases=3 bus1=1971 bus2=1980 length=0.028 units=km Geometry=3prot95mm2
+New line.1980_1990 phases=3 bus1=1980 bus2=1990 length=0.020 units=km Geometry=3prot95mm2
+New line.1991_3360 phases=3 bus1=1991 bus2=3360 length=0.047 units=km Geometry=3prot95mm2
+New line.0018_2000 phases=3 bus1=0018 bus2=2000 length=0.016 units=km Geometry=UG_trefoil_240 !SUBTERRANEA LADO2
+New line.2001_2010 phases=3 bus1=2001 bus2=2010 length=0.032 units=km Geometry=3prot95mm2
+New line.2010_2020 phases=3 bus1=2010 bus2=2020 length=0.032 units=km Geometry=3prot95mm2
+New line.2021_2022 phases=3 bus1=2021 bus2=2022 length=0.020 units=km Geometry=UG_trefoil_25 !SUBTERRANEA GRAFICA
+New line.2020_2030 phases=3 bus1=2020 bus2=2030 length=0.016 units=km Geometry=3prot95mm2
+New line.2030_2040 phases=3 bus1=2030 bus2=2040 length=0.039 units=km Geometry=3prot95mm2
+New line.2040_2050 phases=3 bus1=2040 bus2=2050 length=0.039 units=km Geometry=3prot95mm2
+New line.2050_2060 phases=3 bus1=2050 bus2=2060 length=0.034 units=km Geometry=3prot95mm2
+New line.2060_2070 phases=3 bus1=2060 bus2=2070 length=0.024 units=km Geometry=3prot95mm2
+New line.2070_2080 phases=3 bus1=2070 bus2=2080 length=0.012 units=km Geometry=3prot50mm2
+New line.2081_2090 phases=3 bus1=2081 bus2=2090 length=0.020 units=km Geometry=3prot50mm2
+New line.2090_2100 phases=3 bus1=2090 bus2=2100 length=0.022 units=km Geometry=3prot50mm2
+New line.2100_2110 phases=3 bus1=2100 bus2=2110 length=0.024 units=km Geometry=3prot50mm2
+New line.2110_2120 phases=3 bus1=2110 bus2=2120 length=0.045 units=km Geometry=3prot50mm2
+New line.2120_2130 phases=3 bus1=2120 bus2=2130 length=0.010 units=km Geometry=3prot50mm2
+New line.2131_2132 phases=3 bus1=2131 bus2=2132 length=0.020 units=km Geometry=UG_trefoil_25 !SUBTERRANEA INRI
+New line.2120_2140 phases=3 bus1=2120 bus2=2140 length=0.005 units=km Geometry=3prot50mm2
+New line.2140_2150 phases=3 bus1=2140 bus2=2150 length=0.030 units=km Geometry=3prot50mm2
+New line.2100_2160 phases=3 bus1=2100 bus2=2160 length=0.017 units=km Geometry=3prot50mm2
+New line.2160_2170 phases=3 bus1=2160 bus2=2170 length=0.018 units=km Geometry=3prot50mm2
+New line.2170_2180 phases=3 bus1=2170 bus2=2180 length=0.025 units=km Geometry=3prot50mm2
+New line.2180_2190 phases=3 bus1=2180 bus2=2190 length=0.033 units=km Geometry=3prot50mm2
+New line.2190_2200 phases=3 bus1=2190 bus2=2200 length=0.036 units=km Geometry=3prot50mm2
+New line.2200_2210 phases=3 bus1=2200 bus2=2210 length=0.033 units=km Geometry=3prot50mm2
+New line.2070_2220 phases=3 bus1=2070 bus2=2220 length=0.010 units=km Geometry=3prot95mm2
+New line.2220_2230 phases=3 bus1=2220 bus2=2230 length=0.033 units=km Geometry=3prot95mm2
+New line.2230_2240 phases=3 bus1=2230 bus2=2240 length=0.034 units=km Geometry=3prot95mm2
+New line.2241_2242 phases=3 bus1=2241 bus2=2242 length=0.025 units=km Geometry=UG_trefoil_25 !SUBTERRANEA INPE
+New line.2242_2243 phases=3 bus1=2242 bus2=2243 length=0.015 units=km Geometry=UG_trefoil_25 !SUBTERRANEA INPE
+New line.2243_2244 phases=3 bus1=2243 bus2=2244 length=0.050 units=km Geometry=UG_trefoil_25 !SUBTERRANEA INPE
+New line.2244_2245 phases=3 bus1=2244 bus2=2245 length=0.021 units=km Geometry=UG_trefoil_25 !SUBTERRANEA INPE
+New line.2240_2250 phases=3 bus1=2240 bus2=2250 length=0.017 units=km Geometry=3prot95mm2
+New line.2250_2260 phases=3 bus1=2250 bus2=2260 length=0.020 units=km Geometry=3prot95mm2
+New line.2260_2270 phases=3 bus1=2260 bus2=2270 length=0.029 units=km Geometry=3prot95mm2
+New line.2271_2280 phases=3 bus1=2271 bus2=2280 length=0.040 units=km Geometry=3CAA4awg
+New line.2281_2282 phases=3 bus1=2281 bus2=2282 length=0.015 units=km Geometry=UG_trefoil_25 !SUBTERRANEA HIDR
+New line.2270_2290 phases=3 bus1=2270 bus2=2290 length=0.025 units=km Geometry=3prot95mm2
+New line.2290_2300 phases=3 bus1=2290 bus2=2300 length=0.028 units=km Geometry=3prot95mm2
+New line.2290_5160 phases=3 bus1=2290 bus2=5160 length=0.009 units=km Geometry=3prot50mm2
+New line.2301_2310 phases=3 bus1=2301 bus2=2310 length=0.021 units=km Geometry=3prot95mm2
+New line.2311_2320 phases=3 bus1=2311 bus2=2320 length=0.015 units=km Geometry=3prot50mm2
+New line.2310_2330 phases=3 bus1=2310 bus2=2330 length=0.027 units=km Geometry=3prot95mm2
+New line.2330_2340 phases=3 bus1=2330 bus2=2340 length=0.042 units=km Geometry=3CAA10awg
+New line.2341_2342 phases=3 bus1=2341 bus2=2342 length=0.040 units=km Geometry=UG_trefoil_25 !SUBTERRANEA QUIMICA
+New line.2342_2343 phases=3 bus1=2342 bus2=2343 length=0.015 units=km Geometry=UG_trefoil_25 !SUBTERRANEA QUIMICA
+New line.2343_2344 phases=3 bus1=2343 bus2=2344 length=0.020 units=km Geometry=UG_trefoil_25 !SUBTERRANEA QUIMICA
+New line.2344_2345 phases=3 bus1=2344 bus2=2345 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA QUIMICA
+New line.2345_2346 phases=3 bus1=2345 bus2=2346 length=0.004 units=km Geometry=UG_trefoil_25 !SUBTERRANEA QUIMICA
+New line.2340_2350 phases=3 bus1=2340 bus2=2350 length=0.042 units=km Geometry=3CAA10awg
+New line.2351_2352 phases=3 bus1=2351 bus2=2352 length=0.065 units=km Geometry=UG_trefoil_25 !SUBTERRANEA PAVCT
+New line.2352_2353 phases=3 bus1=2352 bus2=2353 length=0.020 units=km Geometry=UG_trefoil_25 !SUBTERRANEA PAVCT
+New line.2355_2356 phases=3 bus1=2355 bus2=2356 length=0.130 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CT_C
+New line.2356_2357 phases=3 bus1=2356 bus2=2357 length=0.010 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CT_C
+New line.2350_2360 phases=3 bus1=2350 bus2=2360 length=0.046 units=km Geometry=3CAA10awg
+New line.2361_2362 phases=3 bus1=2361 bus2=2362 length=0.020 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCNE
+New line.2362_2363 phases=3 bus1=2362 bus2=2363 length=0.032 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCNE
+New line.2365_2366 phases=3 bus1=2365 bus2=2366 length=0.045 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CTEC
+New line.2366_2367 phases=3 bus1=2366 bus2=2367 length=0.036 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CTEC
+New line.2367_2368 phases=3 bus1=2367 bus2=2368 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CTEC
+New line.2330_2370 phases=3 bus1=2330 bus2=2370 length=0.020 units=km Geometry=3prot95mm2
+New line.2370_2380 phases=3 bus1=2370 bus2=2380 length=0.024 units=km Geometry=3prot95mm2
+New line.2380_2390 phases=3 bus1=2380 bus2=2390 length=0.022 units=km Geometry=3prot95mm2
+New line.2390_2400 phases=3 bus1=2390 bus2=2400 length=0.048 units=km Geometry=3prot50mm2
+New line.2390_2410 phases=3 bus1=2390 bus2=2410 length=0.033 units=km Geometry=3prot95mm2
+New line.2410_2420 phases=3 bus1=2410 bus2=2420 length=0.027 units=km Geometry=3prot95mm2
+New line.2420_2430 phases=3 bus1=2420 bus2=2430 length=0.009 units=km Geometry=3prot50mm2
+New line.2431_2432 phases=3 bus1=2431 bus2=2432 length=0.035 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CE1
+New line.2432_2433 phases=3 bus1=2432 bus2=2433 length=0.004 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CE1
+New line.2420_2440 phases=3 bus1=2420 bus2=2440 length=0.031 units=km Geometry=3prot95mm2
+New line.2440_2450 phases=3 bus1=2440 bus2=2450 length=0.028 units=km Geometry=3prot95mm2
+New line.2450_2460 phases=3 bus1=2450 bus2=2460 length=0.026 units=km Geometry=3prot95mm2
+New line.2460_2461 phases=3 bus1=2460 bus2=2461 length=0.012 units=km Geometry=3prot95mm2
+New line.2461_2470 phases=3 bus1=2461 bus2=2470 length=0.023 units=km Geometry=3CAA10awg
+New line.2471_2480 phases=3 bus1=2471 bus2=2480 length=0.038 units=km Geometry=3CAA4awg
+New line.2480_2490 phases=3 bus1=2480 bus2=2490 length=0.029 units=km Geometry=3CAA4awg
+New line.2490_2500 phases=3 bus1=2490 bus2=2500 length=0.025 units=km Geometry=3CAA4awg
+New line.2500_2510 phases=3 bus1=2500 bus2=2510 length=0.008 units=km Geometry=3CAA4awg
+New line.2510_2520 phases=3 bus1=2510 bus2=2520 length=0.055 units=km Geometry=3CAA4awg
+New line.2520_2530 phases=3 bus1=2520 bus2=2530 length=0.022 units=km Geometry=3CAA4awg
+New line.2530_2540 phases=3 bus1=2530 bus2=2540 length=0.022 units=km Geometry=3CAA4awg
+New line.2461_2550 phases=3 bus1=2461 bus2=2550 length=0.008 units=km Geometry=3prot95mm2
+New line.2551_2560 phases=3 bus1=2551 bus2=2560 length=0.032 units=km Geometry=3prot95mm2
+New line.2560_2570 phases=3 bus1=2560 bus2=2570 length=0.028 units=km Geometry=3prot95mm2
+New line.2570_2580 phases=3 bus1=2570 bus2=2580 length=0.006 units=km Geometry=3prot95mm2
+New line.2580_2590 phases=3 bus1=2580 bus2=2590 length=0.010 units=km Geometry=3prot50mm2
+New line.2590_2600 phases=3 bus1=2590 bus2=2600 length=0.025 units=km Geometry=3prot50mm2
+New line.2600_2610 phases=3 bus1=2600 bus2=2610 length=0.031 units=km Geometry=3prot50mm2
+New line.2610_2620 phases=3 bus1=2610 bus2=2620 length=0.034 units=km Geometry=3prot50mm2
+New line.2621_2622 phases=3 bus1=2621 bus2=2622 length=0.040 units=km Geometry=UG_trefoil_25 !SUBTERRANEA QPETR
+New line.2622_2623 phases=3 bus1=2622 bus2=2623 length=0.005 units=km Geometry=UG_trefoil_25 !SUBTERRANEA QPETR
+New line.2580_2630 phases=3 bus1=2580 bus2=2630 length=0.015 units=km Geometry=3prot95mm2
+New line.2630_2640 phases=3 bus1=2630 bus2=2640 length=0.031 units=km Geometry=3prot95mm2
+New line.2640_2650 phases=3 bus1=2640 bus2=2650 length=0.033 units=km Geometry=3prot95mm2
+New line.2651_2660 phases=3 bus1=2651 bus2=2660 length=0.040 units=km Geometry=3CAA2awg !RAMAL AEREO CEEMA
+New line.2650_2670 phases=3 bus1=2650 bus2=2670 length=0.013 units=km Geometry=3CAA10awg
+New line.2671_2680 phases=3 bus1=2671 bus2=2680 length=0.037 units=km Geometry=3CAA10awg
+New line.2681_2682 phases=3 bus1=2681 bus2=2682 length=0.040 units=km Geometry=UG_trefoil_25 !SUBTERRANEA P21
+New line.2682_2683 phases=3 bus1=2682 bus2=2683 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA P21
+New line.2680_2690 phases=3 bus1=2680 bus2=2690 length=0.045 units=km Geometry=3CAA10awg
+New line.2690_2700 phases=3 bus1=2690 bus2=2700 length=0.045 units=km Geometry=3CAA10awg
+New line.2701_2702 phases=3 bus1=2701 bus2=2702 length=0.040 units=km Geometry=UG_trefoil_25 !SUBTERRANEA P19
+New line.2702_2703 phases=3 bus1=2702 bus2=2703 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA P19
+New line.2700_2710 phases=3 bus1=2700 bus2=2710 length=0.045 units=km Geometry=3CAA10awg
+New line.2711_2712 phases=3 bus1=2711 bus2=2712 length=0.040 units=km Geometry=UG_trefoil_25 !SUBTERRANEA P18
+New line.2712_2713 phases=3 bus1=2712 bus2=2713 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA P18
+New line.2710_2720 phases=3 bus1=2710 bus2=2720 length=0.045 units=km Geometry=3CAA10awg
+New line.2721_2722 phases=3 bus1=2721 bus2=2722 length=0.040 units=km Geometry=UG_trefoil_25 !SUBTERRANEA P17
+New line.2722_2723 phases=3 bus1=2722 bus2=2723 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA P17
+New line.2650_2730 phases=3 bus1=2650 bus2=2730 length=0.033 units=km Geometry=3prot95mm2
+New line.2731_2740 phases=3 bus1=2731 bus2=2740 length=0.029 units=km Geometry=3prot95mm2
+New line.2740_2750 phases=3 bus1=2740 bus2=2750 length=0.029 units=km Geometry=3prot95mm2
+New line.2750_2760 phases=3 bus1=2750 bus2=2760 length=0.021 units=km Geometry=3prot95mm2
+New line.2760_2770 phases=3 bus1=2760 bus2=2770 length=0.006 units=km Geometry=3CAA4awg
+New line.2761_2780 phases=3 bus1=2761 bus2=2780 length=0.017 units=km Geometry=3prot50mm2
+New line.2780_2790 phases=3 bus1=2780 bus2=2790 length=0.034 units=km Geometry=3prot50mm2
+New line.2791_2792 phases=3 bus1=2791 bus2=2792 length=0.030 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCR2
+New line.2792_2793 phases=3 bus1=2792 bus2=2793 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCR2
+New line.2790_2800 phases=3 bus1=2790 bus2=2800 length=0.044 units=km Geometry=3prot50mm2
+New line.2801_2802 phases=3 bus1=2801 bus2=2802 length=0.102 units=km Geometry=UG_trefoil_25 !SUBTERRANEA LSOLOS
+New line.2802_2803 phases=3 bus1=2802 bus2=2803 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA LSOLOS
+New line.2800_2810 phases=3 bus1=2800 bus2=2810 length=0.024 units=km Geometry=3prot50mm2
+New line.2810_2820 phases=3 bus1=2810 bus2=2820 length=0.024 units=km Geometry=3prot50mm2
+New line.2821_2822 phases=3 bus1=2821 bus2=2822 length=0.030 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCR1
+New line.2822_2823 phases=3 bus1=2822 bus2=2823 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCR1
+New line.2820_2830 phases=3 bus1=2820 bus2=2830 length=0.021 units=km Geometry=3prot50mm2
+New line.2830_2840 phases=3 bus1=2830 bus2=2840 length=0.021 units=km Geometry=3prot50mm2
+New line.2840_2850 phases=3 bus1=2840 bus2=2850 length=0.022 units=km Geometry=3prot50mm2
+New line.2850_2860 phases=3 bus1=2850 bus2=2860 length=0.022 units=km Geometry=3prot50mm2
+New line.2861_2862 phases=3 bus1=2861 bus2=2862 length=0.030 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CAL
+New line.2862_2863 phases=3 bus1=2862 bus2=2863 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CAL
+New line.2760_2870 phases=3 bus1=2760 bus2=2870 length=0.042 units=km Geometry=3prot95mm2
+New line.2870_2880 phases=3 bus1=2870 bus2=2880 length=0.030 units=km Geometry=3prot95mm2
+New line.2880_2890 phases=3 bus1=2880 bus2=2890 length=0.036 units=km Geometry=3prot95mm2
+New line.2890_2900 phases=3 bus1=2890 bus2=2900 length=0.046 units=km Geometry=3prot95mm2
+New line.2900_2910 phases=3 bus1=2900 bus2=2910 length=0.013 units=km Geometry=3CAA10awg
+New line.2911_2920 phases=3 bus1=2911 bus2=2920 length=0.034 units=km Geometry=3CAA10awg
+New line.2920_2930 phases=3 bus1=2920 bus2=2930 length=0.045 units=km Geometry=3CAA10awg
+New line.2930_2940 phases=3 bus1=2930 bus2=2940 length=0.045 units=km Geometry=3CAA10awg
+New line.2940_2950 phases=3 bus1=2940 bus2=2950 length=0.041 units=km Geometry=3CAA10awg
+New line.2950_2951 phases=3 bus1=2950 bus2=2951 length=0.010 units=km Geometry=3CAA10awg
+New line.2951_2960 phases=3 bus1=2951 bus2=2960 length=0.006 units=km Geometry=3prot50mm2
+New line.2960_2970 phases=3 bus1=2960 bus2=2970 length=0.037 units=km Geometry=3prot50mm2
+New line.2970_2980 phases=3 bus1=2970 bus2=2980 length=0.036 units=km Geometry=3prot50mm2
+New line.2980_2990 phases=3 bus1=2980 bus2=2990 length=0.026 units=km Geometry=3prot50mm2
+New line.2990_3000 phases=3 bus1=2990 bus2=3000 length=0.024 units=km Geometry=3prot50mm2
+New line.2951_3010 phases=3 bus1=2951 bus2=3010 length=0.024 units=km Geometry=3prot50mm2
+New line.3010_3020 phases=3 bus1=3010 bus2=3020 length=0.035 units=km Geometry=3prot50mm2
+New line.3021_3022 phases=3 bus1=3021 bus2=3022 length=0.056 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCSH_C2
+New line.3022_3023 phases=3 bus1=3022 bus2=3023 length=0.013 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCSH_C2
+New line.2951_3030 phases=3 bus1=2951 bus2=3030 length=0.021 units=km Geometry=3CAA10awg
+New line.3030_3040 phases=3 bus1=3030 bus2=3040 length=0.047 units=km Geometry=3CAA10awg
+New line.3040_3050 phases=3 bus1=3040 bus2=3050 length=0.042 units=km Geometry=3CAA10awg
+New line.3050_3060 phases=3 bus1=3050 bus2=3060 length=0.040 units=km Geometry=3CAA10awg
+New line.2900_3070 phases=3 bus1=2900 bus2=3070 length=0.039 units=km Geometry=3prot95mm2
+New line.3070_3080 phases=3 bus1=3070 bus2=3080 length=0.020 units=km Geometry=3prot95mm2
+New line.3080_3090 phases=3 bus1=3080 bus2=3090 length=0.032 units=km Geometry=3prot95mm2
+New line.3091_3092 phases=3 bus1=3091 bus2=3092 length=0.060 units=km Geometry=UG_trefoil_25 !SUBTERRANEA PLANET
+New line.3090_3100 phases=3 bus1=3090 bus2=3100 length=0.014 units=km Geometry=3prot95mm2
+New line.3101_3102 phases=3 bus1=3101 bus2=3102 length=0.058 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCSH_C1
+New line.3100_3110 phases=3 bus1=3100 bus2=3110 length=0.034 units=km Geometry=3prot95mm2
+New line.3111_3112 phases=3 bus1=3111 bus2=3112 length=0.058 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCSH_B
+New line.3110_3120 phases=3 bus1=3110 bus2=3120 length=0.037 units=km Geometry=3prot95mm2
+New line.3121_3122 phases=3 bus1=3121 bus2=3122 length=0.090 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCSH_A
+New line.3122_3123 phases=3 bus1=3122 bus2=3123 length=0.006 units=km Geometry=UG_trefoil_25 !SUBTERRANEA CCSH_A
+New line.3120_3130 phases=3 bus1=3120 bus2=3130 length=0.013 units=km Geometry=3prot95mm2
+New line.3131_3140 phases=3 bus1=3131 bus2=3140 length=0.030 units=km Geometry=3prot95mm2
+New line.3140_3150 phases=3 bus1=3140 bus2=3150 length=0.036 units=km Geometry=3prot95mm2
+New line.3150_3160 phases=3 bus1=3150 bus2=3160 length=0.014 units=km Geometry=3prot95mm2
+New line.3160_3170 phases=3 bus1=3160 bus2=3170 length=0.019 units=km Geometry=3prot95mm2
+New line.3171_3180 phases=3 bus1=3171 bus2=3180 length=0.033 units=km Geometry=3prot95mm2
+New line.3180_3190 phases=3 bus1=3180 bus2=3190 length=0.034 units=km Geometry=3prot95mm2
+New line.3190_3200 phases=3 bus1=3190 bus2=3200 length=0.033 units=km Geometry=3prot95mm2
+New line.3200_3210 phases=3 bus1=3200 bus2=3210 length=0.028 units=km Geometry=3prot95mm2
+New line.3210_3220 phases=3 bus1=3210 bus2=3220 length=0.027 units=km Geometry=3prot95mm2
+New line.3220_3230 phases=3 bus1=3220 bus2=3230 length=0.007 units=km Geometry=3CAA4awg
+New line.3230_3240 phases=3 bus1=3230 bus2=3240 length=0.025 units=km Geometry=3CAA4awg
+New line.3240_3250 phases=3 bus1=3240 bus2=3250 length=0.028 units=km Geometry=3CAA4awg
+New line.3250_3260 phases=3 bus1=3250 bus2=3260 length=0.051 units=km Geometry=3CAA4awg
+New line.3220_3270 phases=3 bus1=3220 bus2=3270 length=0.022 units=km Geometry=3prot95mm2
+New line.3271_3280 phases=3 bus1=3271 bus2=3280 length=0.038 units=km Geometry=3CAA4awg
+New line.3280_3290 phases=3 bus1=3280 bus2=3290 length=0.035 units=km Geometry=3CAA4awg
+New line.3290_3300 phases=3 bus1=3290 bus2=3300 length=0.034 units=km Geometry=3CAA4awg
+New line.3270_3310 phases=3 bus1=3270 bus2=3310 length=0.035 units=km Geometry=3prot95mm2
+New line.3310_3320 phases=3 bus1=3310 bus2=3320 length=0.035 units=km Geometry=3prot95mm2
+New line.3320_3330 phases=3 bus1=3320 bus2=3330 length=0.033 units=km Geometry=3prot95mm2
+New line.3330_3340 phases=3 bus1=3330 bus2=3340 length=0.033 units=km Geometry=3prot95mm2
+New line.3340_3350 phases=3 bus1=3340 bus2=3350 length=0.033 units=km Geometry=3prot95mm2
+New line.3351_3360 phases=3 bus1=3351 bus2=3360 length=0.036 units=km Geometry=3prot95mm2
+New line.3360_3370 phases=3 bus1=3360 bus2=3370 length=0.031 units=km Geometry=3prot95mm2
+New line.3371_3380 phases=3 bus1=3371 bus2=3380 length=0.032 units=km Geometry=3CAA10awg
+New line.3380_3390 phases=3 bus1=3380 bus2=3390 length=0.040 units=km Geometry=3CAA10awg
+New line.3390_3400 phases=3 bus1=3390 bus2=3400 length=0.040 units=km Geometry=3CAA4awg
+New line.3401_3410 phases=3 bus1=3401 bus2=3410 length=0.052 units=km Geometry=3CAA4awg
+New line.3400_3420 phases=3 bus1=3400 bus2=3420 length=0.048 units=km Geometry=3CAA4awg
+New line.3420_3430 phases=3 bus1=3420 bus2=3430 length=0.040 units=km Geometry=3CAA4awg
+New line.3430_3440 phases=3 bus1=3430 bus2=3440 length=0.059 units=km Geometry=3CAA4awg
+New line.3440_3450 phases=3 bus1=3440 bus2=3450 length=0.033 units=km Geometry=3CAA4awg
+New line.3451_3452 phases=3 bus1=3451 bus2=3452 length=0.025 units=km Geometry=3CAA4awg
+New line.3452_3460 phases=3 bus1=3452 bus2=3460 length=0.010 units=km Geometry=3CAA4awg
+New line.3452_3470 phases=3 bus1=3452 bus2=3470 length=0.005 units=km Geometry=3CAA2awg
+New line.3470_3480 phases=3 bus1=3470 bus2=3480 length=0.021 units=km Geometry=3CAA2awg
+New line.3480_3490 phases=3 bus1=3480 bus2=3490 length=0.032 units=km Geometry=3CAA2awg
+New line.3490_3500 phases=3 bus1=3490 bus2=3500 length=0.030 units=km Geometry=3CAA2awg
+New line.3500_3510 phases=3 bus1=3500 bus2=3510 length=0.028 units=km Geometry=3CAA2awg
+New line.3510_3520 phases=3 bus1=3510 bus2=3520 length=0.037 units=km Geometry=3CAA2awg
+New line.3520_3530 phases=3 bus1=3520 bus2=3530 length=0.037 units=km Geometry=3CAA2awg
+New line.3530_3540 phases=3 bus1=3530 bus2=3540 length=0.037 units=km Geometry=3CAA2awg
+New line.3540_3550 phases=3 bus1=3540 bus2=3550 length=0.036 units=km Geometry=3CAA2awg
+New line.3550_3560 phases=3 bus1=3550 bus2=3560 length=0.038 units=km Geometry=3CAA2awg
+New line.3560_3570 phases=3 bus1=3560 bus2=3570 length=0.037 units=km Geometry=3CAA2awg
+New line.3570_3580 phases=3 bus1=3570 bus2=3580 length=0.036 units=km Geometry=3CAA2awg
+New line.3580_3590 phases=3 bus1=3580 bus2=3590 length=0.039 units=km Geometry=3CAA2awg
+New line.3452_3600 phases=3 bus1=3452 bus2=3600 length=0.023 units=km Geometry=3CAA4awg
+New line.3600_3610 phases=3 bus1=3600 bus2=3610 length=0.033 units=km Geometry=3CAA4awg
+New line.3610_3620 phases=3 bus1=3610 bus2=3620 length=0.028 units=km Geometry=3CAA4awg
+New line.3620_3630 phases=3 bus1=3620 bus2=3630 length=0.035 units=km Geometry=3CAA4awg
+New line.3630_3640 phases=3 bus1=3630 bus2=3640 length=0.042 units=km Geometry=3CAA4awg
+New line.3640_3650 phases=3 bus1=3640 bus2=3650 length=0.031 units=km Geometry=3CAA4awg
+New line.3650_3660 phases=3 bus1=3650 bus2=3660 length=0.018 units=km Geometry=3CAA4awg
+New line.3660_3670 phases=3 bus1=3660 bus2=3670 length=0.022 units=km Geometry=3CAA4awg
+New line.3670_3680 phases=3 bus1=3670 bus2=3680 length=0.040 units=km Geometry=3CAA4awg
+New line.3680_3690 phases=3 bus1=3680 bus2=3690 length=0.039 units=km Geometry=3CAA4awg
+New line.3690_3700 phases=3 bus1=3690 bus2=3700 length=0.033 units=km Geometry=3CAA4awg
+New line.3700_3710 phases=3 bus1=3700 bus2=3710 length=0.052 units=km Geometry=3CAA4awg
+New line.3710_3720 phases=3 bus1=3710 bus2=3720 length=0.048 units=km Geometry=3CAA4awg
+New line.3700_3730 phases=3 bus1=3700 bus2=3730 length=0.035 units=km Geometry=3CAA4awg
+New line.3730_3740 phases=3 bus1=3730 bus2=3740 length=0.032 units=km Geometry=3CAA4awg
+New line.3740_3750 phases=3 bus1=3740 bus2=3750 length=0.058 units=km Geometry=3CAA4awg
+New line.3750_3760 phases=3 bus1=3750 bus2=3760 length=0.038 units=km Geometry=3CAA4awg
+New line.3760_3770 phases=3 bus1=3760 bus2=3770 length=0.037 units=km Geometry=3CAA4awg
+New line.3770_3780 phases=3 bus1=3770 bus2=3780 length=0.035 units=km Geometry=3CAA4awg
+New line.3780_3790 phases=3 bus1=3780 bus2=3790 length=0.040 units=km Geometry=3CAA4awg
+New line.2461_3800 phases=3 bus1=2461 bus2=3800 length=0.031 units=km Geometry=3CAA10awg
+New line.3800_3810 phases=3 bus1=3800 bus2=3810 length=0.030 units=km Geometry=3CAA10awg
+New line.3810_3820 phases=3 bus1=3810 bus2=3820 length=0.020 units=km Geometry=3CAA10awg
+New line.3820_3830 phases=3 bus1=3820 bus2=3830 length=0.049 units=km Geometry=3CAA10awg
+New line.3831_3840 phases=3 bus1=3831 bus2=3840 length=0.018 units=km Geometry=3CAA4awg
+New line.3840_3850 phases=3 bus1=3840 bus2=3850 length=0.028 units=km Geometry=3CAA4awg
+New line.3850_3860 phases=3 bus1=3850 bus2=3860 length=0.044 units=km Geometry=3CAA4awg
+New line.3860_3870 phases=3 bus1=3860 bus2=3870 length=0.037 units=km Geometry=3CAA4awg
+New line.3830_3880 phases=3 bus1=3830 bus2=3880 length=0.052 units=km Geometry=3CAA10awg
+New line.3880_3890 phases=3 bus1=3880 bus2=3890 length=0.048 units=km Geometry=3CAA10awg
+New line.3891_3900 phases=3 bus1=3891 bus2=3900 length=0.055 units=km Geometry=3CAA10awg
+New line.3900_3910 phases=3 bus1=3900 bus2=3910 length=0.075 units=km Geometry=3CAA10awg
+New line.3911_3920 phases=3 bus1=3911 bus2=3920 length=0.077 units=km Geometry=3CAA10awg
+New line.3920_3930 phases=3 bus1=3920 bus2=3930 length=0.060 units=km Geometry=3CAA10awg
+New line.3930_3940 phases=3 bus1=3930 bus2=3940 length=0.015 units=km Geometry=3CAA10awg
+New line.3940_3950 phases=3 bus1=3940 bus2=3950 length=0.038 units=km Geometry=3CAA10awg
+New line.3950_3960 phases=3 bus1=3950 bus2=3960 length=0.040 units=km Geometry=3CAA10awg
+New line.3960_3970 phases=3 bus1=3960 bus2=3970 length=0.040 units=km Geometry=3CAA10awg
+New line.3970_3980 phases=3 bus1=3970 bus2=3980 length=0.040 units=km Geometry=3CAA10awg
+New line.3980_3990 phases=3 bus1=3980 bus2=3990 length=0.040 units=km Geometry=3CAA10awg
+New line.3990_4000 phases=3 bus1=3990 bus2=4000 length=0.039 units=km Geometry=3CAA10awg
+New line.4000_4010 phases=3 bus1=4000 bus2=4010 length=0.042 units=km Geometry=3CAA10awg
+New line.4010_4020 phases=3 bus1=4010 bus2=4020 length=0.042 units=km Geometry=3CAA10awg
+New line.4020_4030 phases=3 bus1=4020 bus2=4030 length=0.042 units=km Geometry=3CAA10awg
+New line.4030_4040 phases=3 bus1=4030 bus2=4040 length=0.040 units=km Geometry=3CAA10awg
+New line.4040_4050 phases=3 bus1=4040 bus2=4050 length=0.040 units=km Geometry=3CAA10awg
+New line.4050_4060 phases=3 bus1=4050 bus2=4060 length=0.041 units=km Geometry=3CAA10awg
+New line.4060_4070 phases=3 bus1=4060 bus2=4070 length=0.067 units=km Geometry=3CAA10awg
+New line.4070_4080 phases=3 bus1=4070 bus2=4080 length=0.043 units=km Geometry=3CAA10awg
+New line.4080_4090 phases=3 bus1=4080 bus2=4090 length=0.034 units=km Geometry=3CAA10awg
+New line.4090_4100 phases=3 bus1=4090 bus2=4100 length=0.044 units=km Geometry=3CAA10awg
+New line.4100_4110 phases=3 bus1=4100 bus2=4110 length=0.040 units=km Geometry=3CAA10awg
+New line.4110_4120 phases=3 bus1=4110 bus2=4120 length=0.040 units=km Geometry=3CAA10awg
+New line.4120_4130 phases=3 bus1=4120 bus2=4130 length=0.046 units=km Geometry=3CAA10awg
+New line.4130_4140 phases=3 bus1=4130 bus2=4140 length=0.038 units=km Geometry=3CAA10awg
+New line.4140_4150 phases=3 bus1=4140 bus2=4150 length=0.036 units=km Geometry=3CAA10awg
+New line.4150_4160 phases=3 bus1=4150 bus2=4160 length=0.042 units=km Geometry=3CAA10awg
+New line.4160_4170 phases=3 bus1=4160 bus2=4170 length=0.039 units=km Geometry=3CAA10awg
+New line.4170_4180 phases=3 bus1=4170 bus2=4180 length=0.037 units=km Geometry=3CAA10awg
+New line.4180_4190 phases=3 bus1=4180 bus2=4190 length=0.038 units=km Geometry=3CAA10awg
+New line.4190_4200 phases=3 bus1=4190 bus2=4200 length=0.032 units=km Geometry=3CAA10awg
+New line.4201_4210 phases=3 bus1=4201 bus2=4210 length=0.027 units=km Geometry=3CAA10awg
+New line.4210_4220 phases=3 bus1=4210 bus2=4220 length=0.074 units=km Geometry=3CAA10awg
+New line.4220_4230 phases=3 bus1=4220 bus2=4230 length=0.076 units=km Geometry=3CAA10awg
+New line.4230_4240 phases=3 bus1=4230 bus2=4240 length=0.075 units=km Geometry=3CAA10awg
+New line.4240_4250 phases=3 bus1=4240 bus2=4250 length=0.075 units=km Geometry=3CAA10awg
+New line.4250_4260 phases=3 bus1=4250 bus2=4260 length=0.072 units=km Geometry=3CAA10awg
+New line.4260_4270 phases=3 bus1=4260 bus2=4270 length=0.023 units=km Geometry=3CAA10awg
+New line.4270_4280 phases=3 bus1=4270 bus2=4280 length=0.023 units=km Geometry=3CAA10awg
+New line.4281_4290 phases=3 bus1=4281 bus2=4290 length=0.040 units=km Geometry=3CAA10awg
+New line.4290_4300 phases=3 bus1=4290 bus2=4300 length=0.040 units=km Geometry=3CAA10awg
+New line.4300_4310 phases=3 bus1=4300 bus2=4310 length=0.040 units=km Geometry=3CAA10awg
+New line.4310_4320 phases=3 bus1=4310 bus2=4320 length=0.040 units=km Geometry=3CAA10awg
+New line.4320_4330 phases=3 bus1=4320 bus2=4330 length=0.040 units=km Geometry=3CAA10awg
+New line.4330_4340 phases=3 bus1=4330 bus2=4340 length=0.040 units=km Geometry=3CAA10awg
+New line.4340_4350 phases=3 bus1=4340 bus2=4350 length=0.040 units=km Geometry=3CAA10awg
+New line.4350_4360 phases=3 bus1=4350 bus2=4360 length=0.040 units=km Geometry=3CAA10awg
+New line.4360_4370 phases=3 bus1=4360 bus2=4370 length=0.040 units=km Geometry=3CAA10awg
+New line.4370_4380 phases=3 bus1=4370 bus2=4380 length=0.040 units=km Geometry=3CAA10awg
+New line.4380_4390 phases=3 bus1=4380 bus2=4390 length=0.040 units=km Geometry=3CAA10awg
+New line.4390_4400 phases=3 bus1=4390 bus2=4400 length=0.040 units=km Geometry=3CAA10awg
+New line.4400_4410 phases=3 bus1=4400 bus2=4410 length=0.062 units=km Geometry=3CAA4awg
+New line.4410_4420 phases=3 bus1=4410 bus2=4420 length=0.075 units=km Geometry=3CAA4awg
+New line.4420_4430 phases=3 bus1=4420 bus2=4430 length=0.068 units=km Geometry=3CAA4awg
+New line.4430_4440 phases=3 bus1=4430 bus2=4440 length=0.030 units=km Geometry=3CAA4awg
+New line.4400_4450 phases=3 bus1=4400 bus2=4450 length=0.023 units=km Geometry=3CAA10awg
+New line.4451_4460 phases=3 bus1=4451 bus2=4460 length=0.060 units=km Geometry=UG_trefoil_25 !SUBTERRANEA TRAV LINHA 69kV
+New line.4461_4470 phases=3 bus1=4461 bus2=4470 length=0.032 units=km Geometry=3CAA10awg
+New line.4470_4480 phases=3 bus1=4470 bus2=4480 length=0.040 units=km Geometry=3CAA10awg
+New line.4480_4490 phases=3 bus1=4480 bus2=4490 length=0.040 units=km Geometry=3CAA10awg
+New line.4490_4500 phases=3 bus1=4490 bus2=4500 length=0.040 units=km Geometry=3CAA10awg
+New line.4500_4510 phases=3 bus1=4500 bus2=4510 length=0.068 units=km Geometry=3CAA10awg
+New line.4510_4520 phases=3 bus1=4510 bus2=4520 length=0.060 units=km Geometry=3CAA10awg
+New line.4520_4530 phases=3 bus1=4520 bus2=4530 length=0.058 units=km Geometry=3CAA10awg
+New line.4530_4540 phases=3 bus1=4530 bus2=4540 length=0.062 units=km Geometry=3CAA10awg
+New line.4540_4550 phases=3 bus1=4540 bus2=4550 length=0.058 units=km Geometry=3CAA10awg
+New line.4550_4560 phases=3 bus1=4550 bus2=4560 length=0.060 units=km Geometry=3CAA10awg
+New line.4560_4570 phases=3 bus1=4560 bus2=4570 length=0.060 units=km Geometry=3CAA10awg
+New line.4570_4580 phases=3 bus1=4570 bus2=4580 length=0.039 units=km Geometry=3CAA10awg
+New line.4580_4590 phases=3 bus1=4580 bus2=4590 length=0.031 units=km Geometry=3CAA10awg
+New line.4590_4600 phases=3 bus1=4590 bus2=4600 length=0.061 units=km Geometry=3CAA10awg
+New line.4600_4610 phases=3 bus1=4600 bus2=4610 length=0.062 units=km Geometry=3CAA10awg
+New line.4610_4620 phases=3 bus1=4610 bus2=4620 length=0.064 units=km Geometry=3CAA10awg
+New line.4620_4630 phases=3 bus1=4620 bus2=4630 length=0.062 units=km Geometry=3CAA10awg
+New line.4630_4640 phases=3 bus1=4630 bus2=4640 length=0.058 units=km Geometry=3CAA10awg
+New line.4640_4650 phases=3 bus1=4640 bus2=4650 length=0.046 units=km Geometry=3CAA10awg
+New line.4650_4660 phases=3 bus1=4650 bus2=4660 length=0.044 units=km Geometry=3CAA10awg
+New line.4660_4670 phases=3 bus1=4660 bus2=4670 length=0.057 units=km Geometry=3CAA10awg
+New line.4670_4680 phases=3 bus1=4670 bus2=4680 length=0.058 units=km Geometry=3CAA10awg
+New line.4680_4690 phases=3 bus1=4680 bus2=4690 length=0.061 units=km Geometry=3CAA10awg
+New line.4690_4700 phases=3 bus1=4690 bus2=4700 length=0.059 units=km Geometry=3CAA10awg
+New line.4700_4710 phases=3 bus1=4700 bus2=4710 length=0.057 units=km Geometry=3CAA10awg
+New line.4710_4720 phases=3 bus1=4710 bus2=4720 length=0.062 units=km Geometry=3CAA10awg
+New line.4720_4730 phases=3 bus1=4720 bus2=4730 length=0.058 units=km Geometry=3CAA10awg
+New line.4730_4740 phases=3 bus1=4730 bus2=4740 length=0.063 units=km Geometry=3CAA10awg
+New line.4740_4750 phases=3 bus1=4740 bus2=4750 length=0.058 units=km Geometry=3CAA10awg
+New line.4750_4760 phases=3 bus1=4750 bus2=4760 length=0.059 units=km Geometry=3CAA10awg
+New line.4760_4770 phases=3 bus1=4760 bus2=4770 length=0.031 units=km Geometry=3CAA10awg
+New line.4770_4780 phases=3 bus1=4770 bus2=4780 length=0.065 units=km Geometry=3CAA10awg
+New line.4780_4790 phases=3 bus1=4780 bus2=4790 length=0.074 units=km Geometry=3CAA10awg
+New line.3160_4800 phases=3 bus1=3160 bus2=4800 length=0.029 units=km Geometry=3CAA10awg
+New line.4801_4810 phases=3 bus1=4801 bus2=4810 length=0.045 units=km Geometry=3CAA10awg
+New line.4810_4820 phases=3 bus1=4810 bus2=4820 length=0.013 units=km Geometry=3CAA10awg
+New line.4820_4830 phases=3 bus1=4820 bus2=4830 length=0.040 units=km Geometry=3CAA10awg
+New line.4830_4840 phases=3 bus1=4830 bus2=4840 length=0.038 units=km Geometry=3CAA10awg
+New line.4840_4850 phases=3 bus1=4840 bus2=4850 length=0.037 units=km Geometry=3CAA10awg
+New line.4850_4860 phases=3 bus1=4850 bus2=4860 length=0.039 units=km Geometry=3CAA10awg
+New line.4860_4870 phases=3 bus1=4860 bus2=4870 length=0.042 units=km Geometry=3CAA10awg
+New line.4870_4880 phases=3 bus1=4870 bus2=4880 length=0.047 units=km Geometry=3CAA10awg
+New line.4880_4881 phases=3 bus1=4880 bus2=4881 length=0.037 units=km Geometry=3CAA10awg
+New line.4881_4890 phases=3 bus1=4881 bus2=4890 length=0.028 units=km Geometry=3CAA4awg
+New line.4890_4900 phases=3 bus1=4890 bus2=4900 length=0.036 units=km Geometry=3CAA4awg
+New line.4900_4910 phases=3 bus1=4900 bus2=4910 length=0.040 units=km Geometry=3CAA4awg
+New line.4881_4920 phases=3 bus1=4881 bus2=4920 length=0.003 units=km Geometry=3CAA4awg
+New line.4920_4930 phases=3 bus1=4920 bus2=4930 length=0.035 units=km Geometry=3CAA4awg
+New line.4881_4940 phases=3 bus1=4881 bus2=4940 length=0.005 units=km Geometry=3CAA10awg
+New line.4941_4950 phases=3 bus1=4941 bus2=4950 length=0.040 units=km Geometry=3CAA4awg
+New line.4950_4960 phases=3 bus1=4950 bus2=4960 length=0.040 units=km Geometry=3CAA4awg
+New line.4960_4970 phases=3 bus1=4960 bus2=4970 length=0.040 units=km Geometry=3CAA4awg
+New line.4970_4980 phases=3 bus1=4970 bus2=4980 length=0.041 units=km Geometry=3CAA4awg
+New line.4980_4990 phases=3 bus1=4980 bus2=4990 length=0.040 units=km Geometry=3CAA4awg
+New line.4990_5000 phases=3 bus1=4990 bus2=5000 length=0.048 units=km Geometry=3CAA4awg
+New line.5000_5010 phases=3 bus1=5000 bus2=5010 length=0.048 units=km Geometry=3CAA4awg
+New line.5010_5020 phases=3 bus1=5010 bus2=5020 length=0.038 units=km Geometry=3CAA4awg
+New line.5010_5030 phases=3 bus1=5010 bus2=5030 length=0.060 units=km Geometry=3CAA4awg
+New line.5030_5040 phases=3 bus1=5030 bus2=5040 length=0.038 units=km Geometry=3CAA4awg
+New line.5040_5050 phases=3 bus1=5040 bus2=5050 length=0.046 units=km Geometry=3CAA4awg
+New line.5050_5060 phases=3 bus1=5050 bus2=5060 length=0.046 units=km Geometry=3CAA4awg
+New line.5060_5070 phases=3 bus1=5060 bus2=5070 length=0.046 units=km Geometry=3CAA4awg
+New line.5070_5080 phases=3 bus1=5070 bus2=5080 length=0.091 units=km Geometry=3CAA4awg
+New line.5080_5090 phases=3 bus1=5080 bus2=5090 length=0.025 units=km Geometry=3CAA4awg
+New line.5000_5100 phases=3 bus1=5000 bus2=5100 length=0.036 units=km Geometry=3CAA4awg
+New line.5100_5110 phases=3 bus1=5100 bus2=5110 length=0.046 units=km Geometry=3CAA4awg
+New line.5110_5120 phases=3 bus1=5110 bus2=5120 length=0.047 units=km Geometry=3CAA4awg
+New line.5120_5130 phases=3 bus1=5120 bus2=5130 length=0.046 units=km Geometry=3CAA4awg
+New line.5130_5140 phases=3 bus1=5130 bus2=5140 length=0.046 units=km Geometry=3CAA4awg
+New line.5140_5150 phases=3 bus1=5140 bus2=5150 length=0.044 units=km Geometry=3CAA4awg

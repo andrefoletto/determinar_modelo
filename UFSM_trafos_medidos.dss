@@ -1,0 +1,157 @@
+// TRANSFORMADORES MEDIDOS
+
+New transformer.225FONO XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=0381 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=0382 kv=0.38 kva=225 conn=wye
+
+New transformer.500ODONTO XHL=4.44 windings=2 %loadloss=0.75 %noloadloss=0.35 %imag=0.70
+~ wdg=1 bus=0501 kv=13.8 kva=500 conn=delta
+~ wdg=2 bus=0502 kv=0.38 kva=500 conn=wye
+
+New transformer.500BIBC XHL=4.44 windings=2 %loadloss=0.75 %noloadloss=0.35 %imag=0.70
+~ wdg=1 bus=0652 kv=13.8 kva=500 conn=delta
+~ wdg=2 bus=0653 kv=0.38 kva=500 conn=wye
+
+New transformer.750RU XHL=4.95 windings=2 %loadloss=0.70 %noloadloss=0.32 %imag=1.70
+~ wdg=1 bus=0753 kv=13.8 kva=750 conn=delta
+~ wdg=2 bus=0754 kv=0.38 kva=750 conn=wye
+
+New transformer.300CEU2D XHL=3.92 windings=2 %loadloss=0.80 %noloadloss=0.38 %imag=0.80
+~ wdg=1 bus=0981 kv=13.8 kva=300 conn=delta
+~ wdg=2 bus=0982 kv=0.38 kva=300 conn=wye
+
+New transformer.300CEU2C XHL=3.92 windings=2 %loadloss=0.80 %noloadloss=0.38 %imag=0.80
+~ wdg=1 bus=1031 kv=13.8 kva=300 conn=delta
+~ wdg=2 bus=1032 kv=0.38 kva=300 conn=wye
+
+New transformer.300CEU2B XHL=3.92 windings=2 %loadloss=0.80 %noloadloss=0.38 %imag=0.80
+~ wdg=1 bus=1081 kv=13.8 kva=300 conn=delta
+~ wdg=2 bus=1082 kv=0.38 kva=300 conn=wye
+
+New transformer.225CEFD XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=1321 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=1322 kv=0.38 kva=225 conn=wye
+
+New transformer.225CPD XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=1443 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=1444 kv=0.38 kva=225 conn=wye
+
+New transformer.500REITORIA XHL=4.44 windings=2 %loadloss=0.75 %noloadloss=0.35 %imag=0.70
+~ wdg=1 bus=1453 kv=13.8 kva=500 conn=delta
+~ wdg=2 bus=1454 kv=0.38 kva=500 conn=wye
+
+New transformer.500CONV1 XHL=4.44 windings=2 %loadloss=0.75 %noloadloss=0.35 %imag=0.70
+~ wdg=1 bus=1523 kv=13.8 kva=500 conn=delta
+~ wdg=2 bus=1524 kv=0.38 kva=500 conn=wye
+
+New transformer.500CONV2 XHL=4.44 windings=2 %loadloss=0.75 %noloadloss=0.35 %imag=0.70
+~ wdg=1 bus=1523 kv=13.8 kva=500 conn=delta
+~ wdg=2 bus=1525 kv=0.38 kva=500 conn=wye
+
+New transformer.225PISCINAS XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=1601 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=1602 kv=0.38 kva=225 conn=wye
+
+New transformer.500GRAFICA XHL=4.44 windings=2 %loadloss=0.75 %noloadloss=0.35 %imag=0.70
+~ wdg=1 bus=2022 kv=13.8 kva=500 conn=delta
+~ wdg=2 bus=2023 kv=0.38 kva=500 conn=wye
+
+New transformer.225CTISM2 XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=2061 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=2062 kv=0.38 kva=225 conn=wye
+
+New transformer.150INRI XHL=3.38 windings=2 %loadloss=0.90 %noloadloss=0.42 %imag=1.00
+~ wdg=1 bus=2132 kv=13.8 kva=150 conn=delta
+~ wdg=2 bus=2133 kv=0.38 kva=150 conn=wye
+
+New transformer.750INPE XHL=4.95 windings=2 %loadloss=0.70 %noloadloss=0.32 %imag=1.70
+~ wdg=1 bus=2246 kv=13.8 kva=750 conn=delta
+~ wdg=2 bus=2247 kv=0.38 kva=750 conn=wye
+
+New transformer.150ENGQUIM XHL=3.38 windings=2 %loadloss=0.90 %noloadloss=0.42 %imag=1.00
+~ wdg=1 bus=2261 kv=13.8 kva=150 conn=delta
+~ wdg=2 bus=2262 kv=0.38 kva=150 conn=wye
+
+New transformer.225HIDR XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=2282 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=2283 kv=0.38 kva=225 conn=wye
+
+New transformer.225QUIMICA XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=2346 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=2347 kv=0.38 kva=225 conn=wye
+
+New transformer.225CTC XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=2.30
+~ wdg=1 bus=2357 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=2358 kv=0.38 kva=225 conn=wye
+
+New transformer.225CCNE XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=2.30
+~ wdg=1 bus=2363 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=2364 kv=0.38 kva=225 conn=wye
+
+New transformer.300CTEC XHL=3.92 windings=2 %loadloss=0.80 %noloadloss=0.38 %imag=0.80
+~ wdg=1 bus=2368 kv=13.8 kva=300 conn=delta
+~ wdg=2 bus=2369 kv=0.38 kva=300 conn=wye
+
+New transformer.1125CE2 XHL=3.37 windings=2 %loadloss=0.95 %noloadloss=0.45 %imag=1.20
+~ wdg=1 bus=2371 kv=13.8 kva=112.5 conn=delta
+~ wdg=2 bus=2372 kv=0.38 kva=112.5 conn=wye
+
+New transformer.225RU2 XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=2401 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=2402 kv=0.38 kva=225 conn=wye
+
+New transformer.225CE1 XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=2433 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=2434 kv=0.38 kva=225 conn=wye
+
+New transformer.1125P21 XHL=3.37 windings=2 %loadloss=0.95 %noloadloss=0.45 %imag=1.20
+~ wdg=1 bus=2683 kv=13.8 kva=112.5 conn=delta
+~ wdg=2 bus=2684 kv=0.38 kva=112.5 conn=wye
+
+New transformer.500P19 XHL=4.44 windings=2 %loadloss=0.75 %noloadloss=0.35 %imag=0.70
+~ wdg=1 bus=2703 kv=13.8 kva=500 conn=delta
+~ wdg=2 bus=2704 kv=0.38 kva=500 conn=wye
+
+New transformer.500P18 XHL=4.44 windings=2 %loadloss=0.75 %noloadloss=0.35 %imag=0.70
+~ wdg=1 bus=2713 kv=13.8 kva=500 conn=delta
+~ wdg=2 bus=2714 kv=0.38 kva=500 conn=wye
+
+New transformer.150DENDROL XHL=3.38 windings=2 %loadloss=0.90 %noloadloss=0.42 %imag=1.00
+~ wdg=1 bus=2771 kv=13.8 kva=150 conn=delta
+~ wdg=2 bus=2772 kv=0.38 kva=150 conn=wye
+
+New transformer.300CCR2 XHL=3.92 windings=2 %loadloss=0.80 %noloadloss=0.38 %imag=0.80
+~ wdg=1 bus=2793 kv=13.8 kva=300 conn=delta
+~ wdg=2 bus=2794 kv=0.38 kva=300 conn=wye
+
+New transformer.225LSOLOS XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=2803 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=2804 kv=0.38 kva=225 conn=wye
+
+New transformer.500CCR1 XHL=4.44 windings=2 %loadloss=0.75 %noloadloss=0.35 %imag=0.70
+~ wdg=1 bus=2823 kv=13.8 kva=500 conn=delta
+~ wdg=2 bus=2824 kv=0.38 kva=500 conn=wye
+
+New transformer.300CAL XHL=3.92 windings=2 %loadloss=0.80 %noloadloss=0.38 %imag=0.80
+~ wdg=1 bus=2863 kv=13.8 kva=300 conn=delta
+~ wdg=2 bus=2864 kv=0.38 kva=300 conn=wye
+
+New transformer.225CCSHC2 XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=2.30
+~ wdg=1 bus=3023 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=3024 kv=0.38 kva=225 conn=wye
+
+New transformer.225CCSHC1 XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=2.30
+~ wdg=1 bus=3102 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=3103 kv=0.38 kva=225 conn=wye
+
+New transformer.225CCSHB XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=2.30
+~ wdg=1 bus=3112 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=3113 kv=0.38 kva=225 conn=wye
+
+New transformer.225CCSHA XHL=3.91 windings=2 %loadloss=0.85 %noloadloss=0.40 %imag=0.90
+~ wdg=1 bus=3123 kv=13.8 kva=225 conn=delta
+~ wdg=2 bus=3124 kv=0.38 kva=225 conn=wye
+
+New transformer.1125POLI1 XHL=3.37 windings=2 %loadloss=0.95 %noloadloss=0.45 %imag=1.20
+~ wdg=1 bus=4811 kv=13.8 kva=112.5 conn=delta
+~ wdg=2 bus=4812 kv=0.38 kva=112.5 conn=wye
